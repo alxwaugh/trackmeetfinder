@@ -11,8 +11,8 @@ const config = {
   title: 'Track Meet',
   description:
     'Find track meets near you',
-  sideBarInfo: ['Event_Name', 'Date', 'Venue'],
-  popupInfo: ['Event_Name'],
+  sideBarInfo: ['Event Name', 'Date', 'Venue'],
+  popupInfo: ['Event Name'],
   filters: [
     {
       type: 'dropdown',
