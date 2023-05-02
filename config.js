@@ -5,14 +5,14 @@ const config = {
   style: 'mapbox://styles/mapbox/light-v10',
   accessToken:
     'pk.eyJ1IjoiYWxleHdhdWdoIiwiYSI6ImNsaDZvZ3c2MTA4NnYzZW5zMnh4Znd0bXUifQ.f2R7_DWexm5QqDuSSu3nzQ',
-  CSV: './Sample_Data.csv',
-  center: [-120.234, 47.398],
+  CSV: './Meets.csv',
+  center: [0.0, 51.398],
   zoom: 6,
-  title: 'Replace with your title',
+  title: 'Track Meets',
   description:
     'Replace with information about your application. Ex. You can search by address to sort the list below by distance. You can also filter the list by language support options, which days a location is open, and whether they have devices to use to complete the survey by phone or online.',
-  sideBarInfo: ['Location_Name', 'Address', 'Phone'],
-  popupInfo: ['Location_Name'],
+  sideBarInfo: ['Event Name', 'Date', 'Venue'],
+  popupInfo: ['Event Name'],
   filters: [
     {
       type: 'dropdown',
