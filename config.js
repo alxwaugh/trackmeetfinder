@@ -51,9 +51,9 @@ const config = {
     },
     {
       type: 'checkbox',
-      title: 'Devices available: ',
-      columnHeader: 'Devices_available', // Case sensitive - must match spreadsheet entry
-      listItems: ['Computer', 'Wi-Fi', 'Adaptive Laptops'], // Case sensitive - must match spreadsheet entry; This will take up to six inputs but is best used with a maximum of three;
+      title: 'Month of Event: ',
+      columnHeader: 'Month', // Case sensitive - must match spreadsheet entry
+      listItems: ['Jan', 'Feb', 'Mar','Apr','May','Jun','Jul','Aug','Sep','Nov','Dec'], // Case sensitive - must match spreadsheet entry; This will take up to six inputs but is best used with a maximum of three;
     },
     {
       type: 'dropdown',
