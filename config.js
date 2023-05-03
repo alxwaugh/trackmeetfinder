@@ -13,6 +13,7 @@ const config = {
     'These are all the Outdoor Track and Field events licenced by England Athletics in 2023 (as of 27th April)',
   sideBarInfo: ['Event Name', 'Date', 'Venue'],
   popupInfo: ['Event Name'],
+  popupInfo2: ['Entry Details'],
   filters: [
     {
       type: 'dropdown',
