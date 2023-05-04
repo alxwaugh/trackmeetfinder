@@ -407,13 +407,13 @@ function sortByDistance(selectedPoint) {
   buildLocationList(data);
 }
 
-geocoder.on('result', (ev) => {
-  const searchResult = ev.result.geometry;
-  sortByDistance(searchResult);
-});
+//geocoder.on('result', (ev) => {
+//  const searchResult = ev.result.geometry;
+//  sortByDistance(searchResult);
+//});
 
 map.on('load', () => {
-  map.addControl(geocoder, 'top-right');
+  //map.addControl(geocoder, 'top-right');
 
   // csv2geojson - following the Sheet Mapper tutorial https://www.mapbox.com/impact-tools/sheet-mapper
   console.log('loaded');
