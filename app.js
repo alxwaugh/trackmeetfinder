@@ -33,7 +33,7 @@ function createPopup(currentFeature) {
     .setLngLat(currentFeature.geometry.coordinates)
     //.setHTML('<h3>' + currentFeature.properties[config.popupInfo] + '</h3>')
     //.setHTML('<h3>' + currentFeature.properties[config.popupInfo] + '</h3><h2>' + currentFeature.properties[config.popupInfo2] + '</h2>')
-    .setHTML('<h3>' + currentFeature.properties[config.popupInfo] + '</h3><a href="' + currentFeature.properties[config.popupInfo2] + '">More Details</a>')
+    .setHTML('<h3>' + currentFeature.properties[config.popupInfo] + '</h3><a href="' + currentFeature.properties[config.popupInfo2] + '" target="_blank">Click for Details</a>')
     .addTo(map);
 }
 
