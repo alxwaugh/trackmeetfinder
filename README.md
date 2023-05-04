@@ -1,6 +1,6 @@
 ## Purpose
 
-To make it easier to find Athletic Track competitions near you.
+To make it easier to find Athletics Track & Field competitions near you.
 
 England Athletics have a "Competition Finder" but it does not have a map element, making it hard to guage the distance to events. It enables you to filter by region, but if you are prepared to cross a regional boundary, it is not easy to get a list of events that you'd be prepared to travel to.
 
@@ -19,8 +19,9 @@ https://www.englandathletics.org/athletics-and-running/england-competitions/lice
 
 ## Need to do
 
-* Clean up the badly geocoded events - like why are there 2 in the Philipines??
-* Create master locations dataset that can be used next time EA publish an update
+* Clean up the badly geocoded events - like, why are there 2 in the Philipines??
 * Better filter options:
   * Can we do filter by age categories?
   * Can we do a date-range slider rather than the horrendous month checkbox list?
+* Automate the CSV cleanup (ETL)
+* Create master locations dataset that can be used next time EA publish an update
