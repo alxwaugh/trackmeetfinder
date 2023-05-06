@@ -8,7 +8,7 @@ const config = {
   CSV: './Meets.csv',
   center: [0.0, 51.398],
   zoom: 6,
-  title: 'Track Meets',
+  title: 'Track Meet Finder',
   description:
     'These are all the Outdoor Track and Field events licenced by England Athletics in 2023 (as of 27th April)',
   sideBarInfo: ['Event Name', 'Date', 'Venue'],
