@@ -6,8 +6,8 @@ const config = {
   accessToken:
     'pk.eyJ1IjoiYWxleHdhdWdoIiwiYSI6ImNsaDZvZ3c2MTA4NnYzZW5zMnh4Znd0bXUifQ.f2R7_DWexm5QqDuSSu3nzQ',
   CSV: './Meets.csv',
-  center: [0.0, 51.398],
-  zoom: 6,
+  center: [-1.0, 54.398],
+  zoom: 9,
   title: 'Track Meet Finder',
   description:
     'These are all the Outdoor Track and Field events licenced by England Athletics in 2023 (as of 27th April)',
