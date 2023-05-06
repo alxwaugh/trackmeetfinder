@@ -6,7 +6,7 @@ const config = {
   accessToken:
     'pk.eyJ1IjoiYWxleHdhdWdoIiwiYSI6ImNsaDZvZ3c2MTA4NnYzZW5zMnh4Znd0bXUifQ.f2R7_DWexm5QqDuSSu3nzQ',
   CSV: './Meets.csv',
-  center: [-1.0, 54.398],
+  center: [-1.69, 54.05],
   zoom: 9,
   title: 'Track Meet Finder',
   description:
