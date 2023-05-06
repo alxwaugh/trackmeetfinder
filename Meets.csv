@@ -23,7 +23,7 @@ University of Leicester Running and Athletics Open Meet,18-Mar,Mar,Saffron Lane 
 West Cheshire AC 25th Anniversary Open Meeting,18-Mar,Mar,Ellesmere Port Sports Village,Ellesmere Port,1,,https://wcac.niftyentries.com/Track-Field-Open-Meetings-2023,OUT 23/079,-2.894311448,53.26567295
 Cumbria School of Hammer 2301,18-Mar,Mar,Sheepmount Athletics Stadium,Carlisle,1,,,OUT 23/095,-2.947561,54.902903
 University of Birmingham Winter Throws & Distance Meet,18-Mar,Mar,University of Birmingham,Birmingham (U),1,,https://data.opentrack.run/en-gb/x/2023/GBR/uobwinterthrows/,OUT 23/116,-1.93012,52.45082
-Derby Early Season Track Test,18-Mar,Mar,Moorways Athletics Stadium,Derby,1,,,OUT 23/176,120.533552,15.345588
+Derby Early Season Track Test,18-Mar,Mar,Moorways Athletics Stadium,Derby,1,,,OUT 23/176,,
 Lancaster Cup,18-Mar,Mar,Salt Ayre Sports Centre,Lancaster,1,,,OUT 23/197,-2.822278792,54.0553877
 Trafford Medal Meetings,19-Mar,Mar,Longford Park Athletics Stadium,Stretford,1,,https://www.traffordac.co.uk/php/index.php?script=home.php,OUT 23/022,-2.28935,53.44636
 Nuneaton Winter Warm Up,19-Mar,Mar,The Pingles Stadium,Nuneaton,1,,https://sites.google.com/thepinglesstadium.com/eapilotevent,OUT 23/187,-1.464162493,52.515688
@@ -38,7 +38,7 @@ West Cheshire AC 25th Anniversary Open Meeting,26-Mar,Mar,Ellesmere Port Sports 
 Spenborough AC - The Spring Open Meeting,26-Mar,Mar,Princess Mary Athletic Stadium,Cleckheaton,1,,https://www.spenac.co.uk/calendar/event/the-spring-open-2023-556105,OUT 23/168,-1.7140939,53.7264346
 Peterborough & Nene Valley Distance Sunday ,26-Mar,Mar,Embankment Athletics Track,Peterborough,1,,https://meets.rosterathletics.com/public/competitions/details/about?id=13234,OUT 23/184,-0.233043,52.570904
 LUCA Pre-BUCS Open Meeting ,26-Mar,Mar,Millenium Arena Battersea Park,Battersea Park,1,,https://data.opentrack.run/en-gb/x/2023/GBR/luca-open/,OUT 23/228,-0.146969,51.47698
-Crawley AC Open Early Open ,26-Mar,Mar,K2 Athletics Stadium,Crawley,1,,https://crawleyac.net/index.php/enter-opens-online/enter-online-sunday-26th-march,OUT 23/231,120.533552,15.345588
+Crawley AC Open Early Open ,26-Mar,Mar,K2 Athletics Stadium,Crawley,1,,https://crawleyac.net/index.php/enter-opens-online/enter-online-sunday-26th-march,OUT 23/231,,
 Avon/SGS Junior Open Meeting,27-Mar,Mar,Kip Keino Athletics Stadium,Stoke Gifford,1,,,OUT 23/119,-2.5437405,51.5182774
 Burton AC Club Championships,27-Mar,Mar,Shobnall Athletics Track,Burton,1,,https://form.jotform.com/211173927289059,OUT 23/156,-0.56667,53.26667
 Corby AC Open Meeting,28-Mar,Mar,Rockingham Triangle Sports Stadium (Corby),Corby,1,,https://entry4sports.co.uk/#/show-entry/408,OUT 23/123,,
@@ -59,12 +59,12 @@ Winchester & District AC Season Opener,2-Apr,Apr,University of Winchester,Winche
 Trafford Medal Meetings,2-Apr,Apr,Longford Park Athletics Stadium,Stretford,1,,https://www.traffordac.co.uk/php/index.php?script=home.php,OUT 23/022,-2.28935,53.44636
 Havering AC Spring Warm Up Open,2-Apr,Apr,Hornchurch Stadium,Hornchurch,1,,,OUT 23/024,0.2383170571,51.5565905
 Peterborough & Nene Valley AC Track Sunday ,2-Apr,Apr,Embankment Athletics Track,Peterborough,1,,https://meets.rosterathletics.com/public/competitions/details/about?id=13235,OUT 23/040,-0.233043,52.570904
-Boston Anniversary Open Throws & Jumps,2-Apr,Apr,Princess Royal Sports Arena (DABSI),Boston,1,,,OUT 23/051,121.8087,-32.12121
+Boston Anniversary Open Throws & Jumps,2-Apr,Apr,Princess Royal Sports Arena (DABSI),Boston,1,,,OUT 23/051,,
 City of Portsmouth Spring Open Meeting,2-Apr,Apr,Mountbatten Centre,Portsmouth,1,,www.athleticevents.co.uk/aprilopen.html,OUT 23/072,-1.082616998,50.82464535
 Charles Kear Memorial Open Graded Meeting,2-Apr,Apr,Tilsley Park Athletics Track,Abingdon,1,,https://meets.rosterathletics.com/public/competitions/details/about?id=12784,OUT 23/090,-1.2779715,51.6714842
 Plymouth Spring Warm Up,2-Apr,Apr,Brickfields Athletic Track,Plymouth,1,,https://plymouthac.co.uk/event/city-of-plymouth-ac-spring-warm-up/,OUT 23/202,-4.113637,50.393988
 Nuneaton Season Opener,2-Apr,Apr,The Pingles Stadium,Nuneaton,2,WA F,https://sites.google.com/thepinglesstadium.com/eapilotevent,OUT 23/241,-1.464162493,52.515688
-Derby Athletics Development Association Midweek Opens,4-Apr,Apr,Moorways Athletics Stadium,Derby,1,,,OUT 23/109,120.533552,15.345588
+Derby Athletics Development Association Midweek Opens,4-Apr,Apr,Moorways Athletics Stadium,Derby,1,,,OUT 23/109,,
 Watford Harriers Open Graded Meetings,5-Apr,Apr,Woodside Stadium,Watford,2,WA F,,OUT 23/092,-0.3945440682,51.69587595
 Watford Open Field Events,5-Apr,Apr,Woodside Stadium,Watford,1,,,OUT 23/100,-0.3945440682,51.69587595
 Isle of Man League,5-Apr,Apr,National Sports Centre (IOM),Douglas,1,,,OUT 23/224,-4.504653,54.152616
@@ -75,12 +75,12 @@ Colchester Harriers Throws Development Meet,9-Apr,Apr,Colchester Station Athleti
 Bill Whistlecroft Spring Open Yeovil inc. South West Sapphire League,10-Apr,Apr,Bill Whistlecroft Sports Stadium (Yeovil Athletics Arena),Yeovil,2,WA F,https://www.yeovilolympiads.com/yeovil-open-meetings/spring-open,OUT 23/091,-2.6318629,50.9420451
 Norman Fowler Memorial Easter Monday Open Meeting,10-Apr,Apr,Tonbridge School Athletics Track,Tonbridge,1,,https://data.opentrack.run/en-gb/x/2023/GBR/taceom/ ,OUT 23/188,0.275167,51.200872
 "Reading AC Club Championships - Field Events only eligible for Power of 10, no track",10-Apr,Apr,Palmer Park Athletics Track,Reading,1,,,OUT 23/278,-0.9696512,51.456659
-Crawley AC Easter Monday Open,10-Apr,Apr,K2 Athletics Stadium,Crawley,1,,https://crawleyac.net/index.php/enter-opens-online/enter-online-easter-monday-10-04-23,OUT 23/283,120.533552,15.345588
-Telford Spring Warm-Up,12-Apr,Apr,Telford Athletics Stadium,Telford,1,,,OUT 23/220,120.533552,15.345588
-Tommy Clay Development Meeting,14-Apr,Apr,Princess Royal Sports Arena (DABSI),Boston,1,,,OUT 23/052,121.8087,-32.12121
+Crawley AC Easter Monday Open,10-Apr,Apr,K2 Athletics Stadium,Crawley,1,,https://crawleyac.net/index.php/enter-opens-online/enter-online-easter-monday-10-04-23,OUT 23/283,,
+Telford Spring Warm-Up,12-Apr,Apr,Telford Athletics Stadium,Telford,1,,,OUT 23/220,,
+Tommy Clay Development Meeting,14-Apr,Apr,Princess Royal Sports Arena (DABSI),Boston,1,,,OUT 23/052,,
 Athletics Norfolk Spring Open Norwich,14-Apr,Apr,Sportspark at UEA,Norwich,1,,,OUT 23/207,1.2923954,52.6285576
 Reading AC Development League,14-Apr,Apr,Palmer Park Athletic Track,Reading,1,,,OUT 23/305,-0.9696512,51.456659
-"Crawley A.I.M. Charity 6, 12, and 24 Hour Race",15-Apr,Apr,K2 Athletics Stadium,Crawley,2,,www.crawley6and12hourraces.com,OUT 23/003,120.533552,15.345588
+"Crawley A.I.M. Charity 6, 12, and 24 Hour Race",15-Apr,Apr,K2 Athletics Stadium,Crawley,2,,www.crawley6and12hourraces.com,OUT 23/003,,
 Cambridge Harriers Young Athlete Trials,15-Apr,Apr,Sutcliffe Park Athletics Track,Eltham,1,,,OUT 23/064,0.0541253,51.4505687
 Poole AC Open Meeting,15-Apr,Apr,Ashdown Leisure Centre,Poole,1,,,OUT 23/085,-1.9664201,50.7487411
 Scottish National Athletics League ,15-Apr,Apr,Grangemouth Sports Stadium,Grangemouth,2,WA F,,OUT 23/097,-3.7230303,56.0189027
@@ -115,18 +115,18 @@ Peterborough & Nene Valley  Barrier Night,18-Apr,Apr,Embankment Athletics Track,
 Kettering Town Harriers Evening Open,18-Apr,Apr,Kettering Athletics Track,Kettering,1,,https://entry4sports.co.uk/#/,OUT 23/318,-0.717797,52.396803
 Watford Harriers Open Graded Meetings,19-Apr,Apr,Woodside Stadium,Watford,2,WA F,,OUT 23/092,-0.3945440682,51.69587595
 Watford Open Field Events,19-Apr,Apr,Woodside Stadium,Watford,1,,,OUT 23/100,-0.3945440682,51.69587595
-Midland Veterans League - North,19-Apr,Apr,Telford Athletics Stadium,Telford,1,,https://mvtfl.wordpress.com/,OUT 23/136,120.533552,15.345588
+Midland Veterans League - North,19-Apr,Apr,Telford Athletics Stadium,Telford,1,,https://mvtfl.wordpress.com/,OUT 23/136,,
 Kingston AC & Polytechnic Harriers Open Meeting,19-Apr,Apr,Weir Archer Athletics Track (Kingsmeadow),Kingston,1,,https://data.opentrack.run/en-gb/x/2023/GBR/kingston-open-1/,OUT 23/279,,
 Isle of Man Athletics Open Meeting,19-Apr,Apr,National Sports Complex,Douglas,1,,,OUT 23/333,-4.504653,54.152616
 BMC Regional Race,20-Apr,Apr,Beckett Park Athletics Centre,Leeds (B),1,,https://www.britishmilersclub.com/,OUT 23/192,-0.051251,51.492313
-Aztec Track & Field Series,20-Apr,Apr,Footes Lane (Garenne Stand),St. Peter Port,1,,,OUT 23/230,-4.98944,51.63778
+Aztec Track & Field Series,20-Apr,Apr,Footes Lane (Garenne Stand),St. Peter Port,1,,,OUT 23/230,,
 Huntingdonshire AC Club Championships,20-Apr,Apr,"One Leisure Outdoor Centre, St. Ives",St. Ives,1,,,OUT 23/272,-0.092947,52.336512
-Tommy Clay Development Meeting,21-Apr,Apr,Princess Royal Sports Arena (DABSI),Boston,1,,,OUT 23/052,121.8087,-32.12121
+Tommy Clay Development Meeting,21-Apr,Apr,Princess Royal Sports Arena (DABSI),Boston,1,,,OUT 23/052,,
 Athletics Norfolk Spring Open,21-Apr,Apr,Lynnsport Athletics Track,King's Lynn,1,,,OUT 23/183,0.3954774,52.7538673
 Sussex Under 15 League - No Pole Vault,21-Apr,Apr,Withdean Stadium,Brighton,1,,,OUT 23/288,-0.1593261361,50.85215175
 Centurion Track 100,22-Apr,Apr,Bedford International Athletics Stadium,Bedford,2,,https://centurionrunning.com/races/centurion-track-100-2023,OUT 23/001,-0.4675041,52.1363806
 Leigh Harriers Spring Throws Open Meeting,22-Apr,Apr,Leigh Sports Village,Leigh,2,WA F,https://www.leighharriers.org/,OUT 23/025,-2.5305682,53.4883788
-Moulton Easter Invitational,22-Apr,Apr,Moulton College Athletics Track,Moulton,1,,https://entry4sports.co.uk/#/,OUT 23/037,76.666741,10.752606
+Moulton Easter Invitational,22-Apr,Apr,Moulton College Athletics Track,Moulton,1,,https://entry4sports.co.uk/#/,OUT 23/037,,
 Afternoon of 5000s,22-Apr,Apr,Mary Peters Stadium,Belfast,2,WA F,,OUT 23/088,-5.967179,54.548531
 Milton Keynes Open Meeting,22-Apr,Apr,Stantonbury Stadium,Milton Keynes,1,,http://www.mkac.org.uk/,OUT 23/132,-0.769329,52.058685
 Woodford Green with Essex Ladies Pre-Season Open Graded Meeting,22-Apr,Apr,Ashton Playing Fields,Woodford,1,,,OUT 23/141,0.05032673229,51.6073283
@@ -146,7 +146,7 @@ North East Youth Development League - Division 1,23-Apr,Apr,Shildon - Stadium 20
 North East Youth Development League - Division 2,23-Apr,Apr,Monkton Stadium,Jarrow,1,,http://www.neydl.website,OUT 23/048,-1.497931582,54.9656323
 Eastern Young Athletes League,23-Apr,Apr,Sportspark at UEA,Norwich,1,,http://eyal.org.uk/,OUT 23/061,1.2923954,52.6285576
 Eastern Young Athletes League,23-Apr,Apr,Embankment Athletics Track,Peterborough,1,,http://eyal.org.uk/,OUT 23/061,-0.233043,52.570904
-Eastern Young Athletes League,23-Apr,Apr,Blackshots Athletic Stadium (Thurrock),Grays,1,,http://eyal.org.uk/,OUT 23/061,-79.40971,36.087268
+Eastern Young Athletes League,23-Apr,Apr,Blackshots Athletic Stadium (Thurrock),Grays,1,,http://eyal.org.uk/,OUT 23/061,,
 Eastern Young Athletes League,23-Apr,Apr,Stuart Storey Athletic Track - Wodson Park,Ware,1,,http://eyal.org.uk/,OUT 23/061,-0.254194,53.770608
 West Yorkshire League,23-Apr,Apr,Princess Mary Athletic Stadium,Cleckheaton,1,,www.wakefield -harriers.co.uk/wytfl/wyl23index.htm,OUT 23/078,-1.7140939,53.7264346
 St George's Day Open Graded Competition,23-Apr,Apr,Blackbridge Athletics Track,Gloucester,1,,https://www.gloucesterac.co.uk/,OUT 23/106,-2.235105,51.853862
@@ -183,23 +183,23 @@ Bury AC Track Mile & Open Meeting,26-Apr,Apr,Market Street Athletics Track,Bury,
 Midland Veterans League - East,26-Apr,Apr,Paula Radcliffe Athletics Stadium,Loughborough,1,,https://mvtfl.wordpress.com/,OUT 23/319,-1.230372,52.769183
 Derby Day - UEA ,26-Apr,Apr,Sportspark at UEA,Norwich,1,,,OUT 23/336,1.2923954,52.6285576
 Natasha Lewis Open,26-Apr,Apr,University of Bath Athletics Track,Bath,1,,https://meets.rosterathletics.com/public/competitions/details/about?id=13568,OUT 23/343,-2.371772,51.363117
-Shropshire Young Athletes League,27-Apr,Apr,Telford Athletics Stadium,Telford,1,,,OUT 23/310,120.533552,15.345588
-Shropshire Young Athlete's League,27-Apr,Apr,Telford Athletics Stadium,Telford,1,,,OUT 23/353,120.533552,15.345588
+Shropshire Young Athletes League,27-Apr,Apr,Telford Athletics Stadium,Telford,1,,,OUT 23/310,,
+Shropshire Young Athlete's League,27-Apr,Apr,Telford Athletics Stadium,Telford,1,,,OUT 23/353,,
 Comeback #3 5000m (with FNUL) ,28-Apr,Apr,Millenium Arena Battersea Park,Battersea Park,2,WA F,https://data.opentrack.run/en-gb/x/2023/GBR/comeback3/,OUT 23/098,-0.146969,51.47698
 Sussex Under 13 League East,28-Apr,Apr,Withdean Stadium,Brighton,1,,,OUT 23/306,-0.1593261361,50.85215175
 Sussex Under 13 League West,28-Apr,Apr,"The Bridge Leisure Centre, Horsham",Horsham,1,,,OUT 23/307,-0.277207,50.934895
-"scottishathletics 10,000m Championships",28-Apr,Apr,Crownpoint Sports Complex,Crownpoint,2,WA F,,OUT 23/324,-122.334411,49.060018
+"scottishathletics 10,000m Championships",28-Apr,Apr,Crownpoint Sports Complex,Crownpoint,2,WA F,,OUT 23/324,,
 South London Athletics Network  April Time Open ,29-Apr,Apr,Woodcote High School,Coulsdon,1,,https://data.opentrack.run/en-gb/x/2023/GBR/slanapr/ ,OUT 23/054,-0.1422829051,51.33016
 West Suffolk Steeplechase Festival,29-Apr,Apr,West Suffolk Athletics Arena,Bury St. Edmunds,1,,,OUT 23/080,0.6994769977,52.25094525
 Somerset County Combined Events Championships,29-Apr,Apr,Bill Whistlecroft Stadium (Yeovil Athletics Arena),Yeovil,2,WA F,https://www.somersetschoolsathletics.org.uk/,OUT 23/113,-2.6318629,50.9420451
 Doncaster Open Meeting,29-Apr,Apr,Keepmoat Stadium,Doncaster,1,,,OUT 23/189,-1.113771303,53.50977845
 Track Mile Festival by Ealing Eagles X Savills,29-Apr,Apr,Perivale Park Athletic Track,Perivale,1,,https://www.eventrac.co.uk/e/track-mile-festival-by-ealing-eagles-x-savills-9422,OUT 23/259,-0.33712,51.532246
 Gloucestershire County Championships,29-Apr,Apr,Blackbridge Athletics Track,Gloucester,1,,https://www.athletics4u.co.uk/track-and-field/,OUT 23/309,-2.235105,51.853862
-Derbyshire Mini League,29-Apr,Apr,Moorways Athletics Stadium,Derby,1,,,OUT 23/329,120.533552,15.345588
+Derbyshire Mini League,29-Apr,Apr,Moorways Athletics Stadium,Derby,1,,,OUT 23/329,,
 BUCS Outdoor Athletics Championships,29-Apr,Apr,Manchester Regional Athletics Arena,Sportcity,2,WA F,https://www.bucs.org.uk/events-page/athletics-outdoor-championships-2022-23.html ,OUT 23/346,-2.244834,53.471419
 Kent Young Athletes League Division 1,29-Apr,Apr,Norman Park Athletic Track,Bromley,1,,,OUT 23/357,1.03333,51.88333
 Kent Young Athletes League Division 2,29-Apr,Apr,Norman Park Athletic Track,Bromley,1,,,OUT 23/357,1.03333,51.88333
-Boston Open Pentathlon,30-Apr,Apr,Princess Royal Sports Arena (DABSI),Boston,1,,,OUT 23/051,121.8087,-32.12121
+Boston Open Pentathlon,30-Apr,Apr,Princess Royal Sports Arena (DABSI),Boston,1,,,OUT 23/051,,
 South West Athletics League,30-Apr,Apr,Exeter Arena,Exeter,1,,,OUT 23/055,-3.491320974,50.73765245
 Somerset County Combined Events Championships,30-Apr,Apr,Bill Whistlecroft Stadium (Yeovil Athletics Arena),Yeovil,2,WA F,https://www.somersetschoolsathletics.org.uk/,OUT 23/113,-2.6318629,50.9420451
 Oxfordshire League,30-Apr,Apr,Oxford Horspath Athletics Stadium,Horspath,1,,https://oxfordshireathletics.org.uk/track-and-field,OUT 23/117,,
@@ -210,8 +210,8 @@ UK Youth Development League Upper - Midlands Premier N/E,30-Apr,Apr,Harvey Hadde
 UK Youth Development League Upper - Midlands Premier South/West,30-Apr,Apr,Yate Outdoor Sports Complex,Yate,1,,https://www.ukydl.org.uk/,OUT 23/129,-2.4134281,51.5403113
 UK Youth Development League Upper - Midlands South/West A,30-Apr,Apr,Yate Outdoor Sports Complex,Yate,1,,https://www.ukydl.org.uk/,OUT 23/129,-2.4134281,51.5403113
 UK Youth Development League Upper - Midlands North/East 1A,30-Apr,Apr,Northwood Stadium,Stoke,1,,https://www.ukydl.org.uk/,OUT 23/129,-2.159532933,53.02656235
-UK Youth Development League Upper - Midlands North/East 1B,30-Apr,Apr,Telford Athletics Stadium,Telford,1,,https://www.ukydl.org.uk/,OUT 23/129,120.533552,15.345588
-UK Youth Development League Upper - Midlands North/East 1C,30-Apr,Apr,Telford Athletics Stadium,Telford,1,,https://www.ukydl.org.uk/,OUT 23/129,120.533552,15.345588
+UK Youth Development League Upper - Midlands North/East 1B,30-Apr,Apr,Telford Athletics Stadium,Telford,1,,https://www.ukydl.org.uk/,OUT 23/129,,
+UK Youth Development League Upper - Midlands North/East 1C,30-Apr,Apr,Telford Athletics Stadium,Telford,1,,https://www.ukydl.org.uk/,OUT 23/129,,
 UK Youth Development League Upper - Northern Premier East,30-Apr,Apr,Costello Stadium,Hull,1,,https://www.ukydl.org.uk/,OUT 23/129,-0.4107359,53.7372742
 UK Youth Development League Upper - Northern Premier West,30-Apr,Apr,Wavertree Athletic Track,Liverpool,1,,https://www.ukydl.org.uk/,OUT 23/129,-2.99168,53.4071991
 UK Youth Development League Upper - Northern West 1 - no hammer/discus,30-Apr,Apr,Ellesmere Port Sports Village,Ellesmere Port,1,,https://www.ukydl.org.uk/,OUT 23/129,-2.894311448,53.26567295
@@ -225,7 +225,7 @@ Yorkshire & District League 1,30-Apr,Apr,Princess Mary Athletic Stadium,Cleckhea
 Yorkshire & District League Division 2,30-Apr,Apr,Princess Mary Athletic Stadium,Cleckheaton,1,,,OUT 23/146,-1.7140939,53.7264346
 Charles Stuart Open Graded Meeting,30-Apr,Apr,Middlesbrough Sports Village,Middlesbrough,1,,https://necaa.weebly.com/,OUT 23/149,-1.210556246,54.54434965
 scottishathletics Throws & Jumps Grand Prix 1,30-Apr,Apr,Queens Park Athletics Stadium,Inverness,2,WA F,,OUT 23/154,-4.225739,57.4790124
-Aztec Track & Field Series,30-Apr,Apr,Footes Lane (Garenne Stand),St. Peter Port,1,,,OUT 23/230,-4.98944,51.63778
+Aztec Track & Field Series,30-Apr,Apr,Footes Lane (Garenne Stand),St. Peter Port,1,,,OUT 23/230,,
 Southampton AC Invitation Jumps Event,30-Apr,Apr,Southampton Sports Centre (Bassett Outdoor),Southampton,1,,https://www.southamptonathleticclub.org.uk/wordpress/,OUT 23/298,-1.419689,50.937383
 Warrington AC Junior Open Meeting,30-Apr,Apr,Victoria Park Arena,Warrington,1,,https://www.trybooking.co.uk/CENA,OUT 23/315,-2.573880055,53.38632335
 BUCS Outdoor Athletics Championships,30-Apr,Apr,Manchester Regional Athletics Arena,Sportcity,2,WA F,https://www.bucs.org.uk/events-page/athletics-outdoor-championships-2022-23.html ,OUT 23/346,-2.244834,53.471419
@@ -234,7 +234,7 @@ Hampshire Multi Events & Quadkids,1-May,May,Mountbatten Centre,Portsmouth,1,,htt
 Brewer Memorial Games,1-May,May,Blackbridge Athletics Track,Gloucester,1,,https://www.race-results.co.uk/results/2023/,OUT 23/275,-2.235105,51.853862
 Hertfordshire & Bedfordshire County Championships,1-May,May,Ridlins Wood Athletics Track,Stevenage,1,,http://hertscaaa.org.uk/,OUT 23/308,-0.2027155,51.9016663
 BUCS Outdoor Athletics Championships,1-May,May,Manchester Regional Athletics Arena,Sportcity,2,WA F,https://www.bucs.org.uk/events-page/athletics-outdoor-championships-2022-23.html ,OUT 23/346,-2.244834,53.471419
-Derby Athletics Development Association Midweek Opens,2-May,May,Moorways Athletics Stadium,Derby,1,,,OUT 23/109,120.533552,15.345588
+Derby Athletics Development Association Midweek Opens,2-May,May,Moorways Athletics Stadium,Derby,1,,,OUT 23/109,,
 North Yorkshire & South Durham Series,2-May,May,Middlesbrough Sports Village,Middlesbrough,1,,http://www.nysd.org.uk/category/track-field/,OUT 23/213,-1.210556246,54.54434965
 Tonbridge Athletic Club Evening Open Meeting,2-May,May,Tonbridge School Athletics Track,Tonbridge,1,,https://data.opentrack.run/en-gb/x/2023/GBR/tacdev1/,OUT 23/317,0.275167,51.200872
 Watford Harriers Open Graded Meetings,3-May,May,Woodside Stadium,Watford,2,WA F,,OUT 23/092,-0.3945440682,51.69587595
@@ -242,7 +242,7 @@ Watford Open Field Events,3-May,May,Woodside Stadium,Watford,1,,,OUT 23/100,-0.3
 Brighton BMC Regional Race,3-May,May,Withdean Stadium,Brighton,1,,https://www.britishmilersclub.com/,OUT 23/287,-0.1593261361,50.85215175
 RJT & NMAC Series Sheffield 2023,3-May,May,Shu City Athletics Stadium (Woodburn Road),Sheffield,1,,https://www.race-results.co.uk/results/2023/67,OUT 23/295,-1.470097,53.385013
 Achilles Schools Relays,4-May,May,Iffley Road Athletics Track (OU),Oxford,1,,,OUT 23/217,-1.228659,51.746972
-Tommy Clay Development Meeting,5-May,May,Princess Royal Sports Arena (DABSI),Boston,1,,,OUT 23/052,121.8087,-32.12121
+Tommy Clay Development Meeting,5-May,May,Princess Royal Sports Arena (DABSI),Boston,1,,,OUT 23/052,,
 Coronation Open Meeting,5-May,May,Down Grange Athletic Track,Basingstoke,1,,https://data.opentrack.run/en-gb/x/2023/GBR/basingstoke-may-open-event/,OUT 23/260,-1.0861976,51.262826
 Southern Counties Veterans AC Kent Division 1,5-May,May,Sutcliffe Park Athletics Track,Eltham,1,,http://www.scvac.org.uk/track.htm,OUT 23/286,0.0541253,51.4505687
 Southern Counties Veterans AC Kent Division 2,5-May,May,Sutcliffe Park Athletics Track,Eltham,1,,http://www.scvac.org.uk/track.htm,OUT 23/286,0.0541253,51.4505687
@@ -253,7 +253,7 @@ Middlesex Young Athletes League,7-May,May,Perivale Park Athletic Track,Perivale,
 Be Fit Today Track Academy Outdoor Series 2,7-May,May,Lee Valley Athletics Centre - Outdoor,Lee Valley,2,WA F,,OUT 23/280,-0.038032,51.629996
 UK Youth Development League Lower - Midland Premier North/East,7-May,May,Stantonbury Stadium,Milton Keynes,1,,https://www.ukydl.org.uk/,OUT 23/311,-0.769329,52.058685
 UK Youth Development League Lower - Midland Premier South/West,7-May,May,Carmarthen Leisure Centre Track,Carmarthen,1,,https://www.ukydl.org.uk/,OUT 23/311,-4.320243,51.843365
-UK Youth Development League Lower - Midland North/East A,7-May,May,Moorways Athletics Stadium,Derby,1,,https://www.ukydl.org.uk/,OUT 23/311,120.533552,15.345588
+UK Youth Development League Lower - Midland North/East A,7-May,May,Moorways Athletics Stadium,Derby,1,,https://www.ukydl.org.uk/,OUT 23/311,,
 UK Youth Development League Lower - Midland North/East B,7-May,May,Tamworth Athletics Track,Tamworth,1,,https://www.ukydl.org.uk/,OUT 23/311,-1.6948438,52.6345819
 UK Youth Development League Lower - Midland North/East C,7-May,May,Tamworth Athletics Track,Tamworth,1,,https://www.ukydl.org.uk/,OUT 23/311,-1.6948438,52.6345819
 UK Youth Development League Lower - Midland North/East D,7-May,May,Nunnery Wood Sports Complex,Worcester,1,,https://www.ukydl.org.uk/,OUT 23/311,-2.187315871,52.18499495
@@ -314,7 +314,7 @@ Norfolk County Championships ,13-May,May,Sportspark at UEA,Norwich,1,,,OUT 23/24
 Northamptonshire & Leicestershire & Rutland County Championships ,13-May,May,Rockingham Triangle Sports Stadium (Corby),Corby,1,,https://meets.rosterathletics.com/public/competitions/details/about?id=13662,OUT 23/254,,
 Kent County Championships,13-May,May,Norman Park Athletic Track,Bromley,2,WA F,,OUT 23/267,1.03333,51.88333
 Hertfordshire & Bedfordshire County Championships,13-May,May,Woodside Stadium,Watford,1,,http://hertscaaa.org.uk/,OUT 23/271,-0.3945440682,51.69587595
-Essex County Championships,13-May,May,Blackshots Athletic Stadium (Thurrock),Grays,2,WA,https://meets.rosterathletics.com/public/competitions/details/participants?id=13894,OUT 23/289,-79.40971,36.087268
+Essex County Championships,13-May,May,Blackshots Athletic Stadium (Thurrock),Grays,2,WA,https://meets.rosterathletics.com/public/competitions/details/participants?id=13894,OUT 23/289,,
 Buckinghamshire & Oxfordshire County Championships,13-May,May,Oxford Horspath Athletics Stadium,Horspath,2,,https://meets.rosterathletics.com/public/competitions/details/about?id=14214,OUT 23/297,,
 Worcestershire County Championships,13-May,May,Alan Moreton Track (Stourport),Stourport,1,,,OUT 23/304,-2.280539,52.34658
 Hampshire County Championships,13-May,May,Mountbatten Centre,Portsmouth,2,WA,,OUT 23/332,-1.082616998,50.82464535
@@ -339,7 +339,7 @@ Northamptonshire & Leicestershire & Rutland County Championships ,14-May,May,Roc
 Kent County Championships,14-May,May,Norman Park Athletic Track,Bromley,2,WA F,,OUT 23/267,1.03333,51.88333
 Devon County Championships,14-May,May,Exeter Arena,Exeter,1,,https://data.opentrack.run/en-gb/x/2023/GBR/devoncountychamps/,OUT 23/270,-3.491320974,50.73765245
 Hertfordshire & Bedfordshire County Championships,14-May,May,Woodside Stadium,Watford,1,,http://hertscaaa.org.uk/,OUT 23/271,-0.3945440682,51.69587595
-Essex County Championships,14-May,May,Blackshots Athletic Stadium (Thurrock),Grays,2,WA,https://meets.rosterathletics.com/public/competitions/details/participants?id=13894,OUT 23/289,-79.40971,36.087268
+Essex County Championships,14-May,May,Blackshots Athletic Stadium (Thurrock),Grays,2,WA,https://meets.rosterathletics.com/public/competitions/details/participants?id=13894,OUT 23/289,,
 Buckinghamshire & Oxfordshire County Championships,14-May,May,Oxford Horspath Athletics Stadium,Horspath,2,,https://meets.rosterathletics.com/public/competitions/details/about?id=14214,OUT 23/297,,
 Merseyside County Championships,14-May,May,Wavertree Athletic Track,Liverpool,1,,https://www.race-results.co.uk/onlineentries/user/login.php?raceid=4852,OUT 23/299,-2.99168,53.4071991
 Gloucestershire County Championships,14-May,May,Blackbridge Athletics Track,Gloucester,1,,https://www.athletics4u.co.uk/track-and-field/,OUT 23/309,-2.235105,51.853862
@@ -359,7 +359,7 @@ Ashford AC Jumps & Throws Open Meeting,18-May,May,Julie Rose Stadium,Ashford,1,,
 Southern Athletics League Divisions 3 Kent,19-May,May,Central Park Athletics Arena,Dartford,1,,https://www.southernathletics.org.uk/,OUT 23/226,0.220864,51.441631
 Southern Athletics League Divisions 3 South,19-May,May,Central Park Athletics Arena,Dartford,1,,https://www.southernathletics.org.uk/,OUT 23/226,0.220864,51.441631
 Highgate Harriers Night of the 10000m PB's inc. British Championships & World Championships Trials,20-May,May,Parliament Hill Fields Track,Parliament Hill,2,WA B,,OUT 23/015,-0.168077,51.566201
-Northern Track & Field League East 1S,20-May,May,Princess Royal Sports Arena (DABSI),Boston,1,,https://www.northernathletics.co.uk/track-field-league/,OUT 23/028,121.8087,-32.12121
+Northern Track & Field League East 1S,20-May,May,Princess Royal Sports Arena (DABSI),Boston,1,,https://www.northernathletics.co.uk/track-field-league/,OUT 23/028,,
 Northern Track & Field League East 1N,20-May,May,John Charles Centre for Sport (South Leeds Stadium),Leeds (JC),1,,https://www.northernathletics.co.uk/track-field-league/,OUT 23/029,-1.542254,53.764693
 Northern Track & Field League West Premier,20-May,May,Ellesmere Port Sports Village,Ellesmere Port,1,,https://www.northernathletics.co.uk/track-field-league/,OUT 23/030,-2.894311448,53.26567295
 Northern Track & Field League West 2,20-May,May,Witton Park Track,Blackburn,1,,https://www.northernathletics.co.uk/track-field-league/,OUT 23/031,-1.415596,53.429025
@@ -396,12 +396,12 @@ Yorkshire & District League Division 2,21-May,May,King George V Stadium,Grimsby,
 scottishathletics Throws & Jumps Grand Prix 1,21-May,May,Grangemouth Sports Stadium,Grangemouth,2,WA F,,OUT 23/155,-3.7230303,56.0189027
 Loughborough International ,21-May,May,Paula Radcliffe Athletics Stadium,Loughborough,2,WA F,,OUT 23/178,-1.230372,52.769183
 Avon League,21-May,May,Yate Outdoor Sports Complex,Yate,1,,http://s250914043.websitehome.co.uk/avonleague/,OUT 23/198,-2.4134281,51.5403113
-Aztec Track & Field Series,21-May,May,Footes Lane (Garenne Stand),St. Peter Port,1,,,OUT 23/230,-4.98944,51.63778
+Aztec Track & Field Series,21-May,May,Footes Lane (Garenne Stand),St. Peter Port,1,,,OUT 23/230,,
 Heart of England League Division 2,21-May,May,Alan Moreton Track (Stourport),Stourport,1,,https://hofe-league.org.uk/,OUT 23/253,-2.280539,52.34658
 Devon Open 2,21-May,May,Brickfields Athletic Track,Plymouth,1,,https://data.opentrack.run/en-gb/x/2023/GBR/devonopen23m2/,OUT 23/269,-4.113637,50.393988
 Mid Lancs Track & Field League,21-May,May,Sheepmount Athletics Stadium,Carlisle,1,,http://www.midlancs.org.uk/,OUT 23/352,-2.947561,54.902903
-Notts Mini League,21-May,May,Newark Sports Village,Newark,1,,www. notts-minileague.co.uk,OUT 23/360,-96.830873,33.161982
-Heart of England League Division 3,21-May,May,The Queen's Diamond Jubilee Centre,Nuneaton,1,,https://hofe-league.org.uk/,OUT 23/361,-1.4684488,52.5246182
+Notts Mini League,21-May,May,Newark Sports Village,Newark,1,,www. notts-minileague.co.uk,OUT 23/360,,
+Heart of England League Division 3,21-May,May,The Queen's Diamond Jubilee Centre,Nuneaton,1,,https://hofe-league.org.uk/,OUT 23/361,-1.254627,52.365789
 Southern Counties VAC League - Hampshire Division,22-May,May,Southampton Sports Centre (Bassett Outdoor),Southampton,1,,https://www.hampshirevetsleague.org.uk/,OUT 23/133,-1.419689,50.937383
 Invicta East Kent AC Open Meeting,22-May,May,Canterbury High School,Canterbury,1,,https://invictaeastkentac.org.uk/index.php,OUT 23/312,1.0634828,51.2793854
 Southern Counties Veterans League - South London Division,22-May,May,King Georges Rec Ground (Ewell Court),Ewell,1,,,OUT 23/325,-0.2368944099,51.3493377
@@ -415,23 +415,23 @@ Birchfield Mid Week Open,24-May,May,Alexander Stadium - Main Stadium,Birmingham,
 Hampshire  Schools AA Pentathlon Championships ,25-May,May,Charlton Centre Athletics Track,Andover,1,,,OUT 23/219,-1.479355,51.2078275
 Waverley Summer Jumps,25-May,May,Woolmer Hill Recreation Ground,Haslemere,1,,,OUT 23/348,-0.7097768,51.0876062
 Shropshire Young Athlete's League,25-May,May,Willam Brookes Academy - Much Wenlock,Much Wenlock,1,,,OUT 23/353,-2.5578451,52.5955951
-Tommy Clay Development Meeting,26-May,May,Princess Royal Sports Arena (DABSI),Boston,1,,,OUT 23/052,121.8087,-32.12121
+Tommy Clay Development Meeting,26-May,May,Princess Royal Sports Arena (DABSI),Boston,1,,,OUT 23/052,,
 Southern Counties Veterans AC Kent Division 1,26-May,May,Central Park Athletics Arena,Dartford,1,,http://www.scvac.org.uk/track.htm,OUT 23/286,0.220864,51.441631
 Southern Counties Veterans AC Kent Division 2,26-May,May,Central Park Athletics Arena,Dartford,1,,http://www.scvac.org.uk/track.htm,OUT 23/286,0.220864,51.441631
 Reading AC Development League,26-May,May,Palmer Park Athletic Track,Reading,1,,,OUT 23/305,-0.9696512,51.456659
 Northern Inter-County Championship,27-May,May,University of York,York,2,WA F,www.northernathletics.co.uk,OUT 23/036,-1.031459294,53.9453903
 Dwarf Sports 30th Anniversary National Games,27-May,May,Aldersley Leisure Village (Wolverhampton),Wolverhampton,1,,,OUT 23/093,-2.1491911,52.6065163
-BMC Grand Prix - World Athletics Challenger,27-May,May,Manchester Regional Athletics Arena (outdoor),Sportcity,2,WA D,https://www.britishmilersclub.com/,OUT 23/108,-122.541825,47.550912
+BMC Grand Prix - World Athletics Challenger,27-May,May,Manchester Regional Athletics Arena (outdoor),Sportcity,2,WA D,https://www.britishmilersclub.com/,OUT 23/108,,
 Loughborough Throws Pathway International,27-May,May,Paula Radcliffe Athletics Stadium,Loughborough,2,WA F,,OUT 23/180,-1.230372,52.769183
 "South London Athletics Network 1,2,3,4 Sprint Open & Relay Meeting ",27-May,May,Tooting Bec Athletics Track,Tooting Bec,1,,https://data.opentrack.run/en-gb/x/2023/GBR/sprintslan/ ,OUT 23/210,-0.1458246,51.4311924
 Isle of Man Championships,27-May,May,National Sports Centre (IOM),Douglas,1,,,OUT 23/223,-4.504653,54.152616
 Alder Valley League - No hammer or discus,27-May,May,Guildford Spectrum Athletic Track,Guildford,1,,,OUT 23/239,,
 England Athletics Senior & U20 Combined Event Championships,27-May,May,Manchester Regional Athletics Arena,Sportcity,2,WA B,https://www.englandathletics.org/athletics-and-running/england-competitions/national-championships/2023-championships-calendar-and-results/,OUT 23/300,-2.244834,53.471419
-Derbyshire Mini League,27-May,May,Moorways Athletics Stadium,Derby,1,,,OUT 23/329,120.533552,15.345588
+Derbyshire Mini League,27-May,May,Moorways Athletics Stadium,Derby,1,,,OUT 23/329,,
 South West Athletics League,28-May,May,Exeter Arena,Exeter,1,,,OUT 23/055,-3.491320974,50.73765245
 Scottish National Athletics League ,28-May,May,Aberdeen Sports Village - Outdoor,Aberdeen,2,WA F,,OUT 23/097,-2.093606,57.162666
 Isle of Man Championships,28-May,May,National Sports Centre (IOM),Douglas,1,,,OUT 23/223,-4.504653,54.152616
-Aztec Track & Field Series,28-May,May,Footes Lane (Garenne Stand),St. Peter Port,1,,,OUT 23/230,-4.98944,51.63778
+Aztec Track & Field Series,28-May,May,Footes Lane (Garenne Stand),St. Peter Port,1,,,OUT 23/230,,
 England Athletics Senior & U20 Combined Event Championships,28-May,May,Manchester Regional Athletics Arena,Sportcity,2,WA B,https://www.englandathletics.org/athletics-and-running/england-competitions/national-championships/2023-championships-calendar-and-results/,OUT 23/300,-2.244834,53.471419
 Trafford Medal Meetings,29-May,May,Longford Park Athletics Stadium,Stretford,1,,https://www.traffordac.co.uk/php/index.php?script=home.php,OUT 23/022,-2.28935,53.44636
 Newham & Essex Beagles Track Open Meetings Summer Series 2023,29-May,May,London Marathon Community Track,London (CT),2,WA F,https://entry4sports.co.uk/,OUT 23/143,-0.016941,51.536909
@@ -451,7 +451,7 @@ Chelmsford Open Meeting ,31-May,May,Chelmsford Sport & Athletics Centre,Chelmsfo
 "North Eastern Counties AA 10,000m Track Championships",31-May,May,Churchill,Whitley Bay,1,,https://www.nemaa.co.uk/necaa.html,OUT 23/268,-1.463,55.040456
 Southern Counties Veterans AC Kent Division 1,2-Jun,Jun,Tonbridge School Athletics Track,Tonbridge,1,,http://www.scvac.org.uk/track.htm,OUT 23/286,0.275167,51.200872
 Southern Counties Veterans AC Kent Division 2,2-Jun,Jun,Tonbridge School Athletics Track,Tonbridge,1,,http://www.scvac.org.uk/track.htm,OUT 23/286,0.275167,51.200872
-Northern Senior & U20 Outdoor Championships,3-Jun,Jun,Manchester Regional Athletics Arena (Outdoor),Sportcity,2,WA F,https://www.northernathletics.co.uk/#,OUT 23/047,-122.541825,47.550912
+Northern Senior & U20 Outdoor Championships,3-Jun,Jun,Manchester Regional Athletics Arena (Outdoor),Sportcity,2,WA F,https://www.northernathletics.co.uk/#,OUT 23/047,,
 Iffley Festival of Miles,3-Jun,Jun,Iffley Road Athletics Track (OU),Oxford,2,WA F,https://data.opentrack.run/en-gb/x/2023/GBR/ifm/,OUT 23/094,-1.228659,51.746972
 The Tracksmith Amateur Mile,3-Jun,Jun,Tooting Bec Athletics Track,Tooting Bec,1,,https://data.opentrack.run/en-gb/x/2023/GBR/tracksmith2/ ,OUT 23/211,-0.1458246,51.4311924
 British Milers Club PB Classic,3-Jun,Jun,Millfield School Athletics Track,Street,1,,,OUT 23/276,-2.726463,51.120136
@@ -459,7 +459,7 @@ British Milers PB classic,3-Jun,Jun,Iffley Road Athletics Track (OU),Oxford,1,,,
 South of England Senior/U20 Championships,3-Jun,Jun,Chelmsford Sport & Athletics Centre,Chelmsford,2,WA F,,OUT 23/245,0.4505023408,51.75319275
 Wessex Young Athletes' League,4-Jun,Jun,Salisbury Running Track,Salisbury,1,,https://www.wessexleaguetandf.co.uk/,OUT 23/038,-1.80584,51.07414
 Wessex Young Athletes' League,4-Jun,Jun,Down Grange Athletic Track,Basingstoke,1,,https://www.wessexleaguetandf.co.uk/,OUT 23/038,-1.0861976,51.262826
-Northern Senior & U20 Outdoor Championships,4-Jun,Jun,Manchester Regional Athletics Arena (Outdoor),Sportcity,2,WA F,https://www.northernathletics.co.uk/#,OUT 23/047,-122.541825,47.550912
+Northern Senior & U20 Outdoor Championships,4-Jun,Jun,Manchester Regional Athletics Arena (Outdoor),Sportcity,2,WA F,https://www.northernathletics.co.uk/#,OUT 23/047,,
 Watford Harriers Minors Meetings,4-Jun,Jun,Woodside Stadium,Watford,1,,https://watfordharriers.org.uk/,OUT 23/062,-0.3945440682,51.69587595
 East Anglian League,4-Jun,Jun,Wellesley Recreation Ground,Great Yarmouth,1,,http://cambsathletics.org.uk/east-anglian-tf-league/,OUT 23/124,1.735657,52.615934
 East Anglian League,4-Jun,Jun,Embankment Athletics Track,Peterborough,1,,http://cambsathletics.org.uk/east-anglian-tf-league/,OUT 23/124,-0.233043,52.570904
@@ -472,23 +472,23 @@ South of England Senior/U20 Championships,4-Jun,Jun,Chelmsford Sport & Athletics
 BMC Regional Race,5-Jun,Jun,Beckett Park Athletics Centre,Leeds (B),1,,https://www.britishmilersclub.com/,OUT 23/192,-0.051251,51.492313
 Southern Counties VAC League - Mid-London Division,5-Jun,Jun,Hillingdon Athletics Centre,Hillingdon,1,,,OUT 23/195,-0.4696,51.532412
 North East Masters AA League,5-Jun,Jun,Monkton Stadium,Jarrow,1,,https://www.nemaa.co.uk/track-and-field.html,OUT 23/205,-1.497931582,54.9656323
-Derby Athletics Development Association Midweek Opens,6-Jun,Jun,Moorways Athletics Stadium,Derby,1,,,OUT 23/109,120.533552,15.345588
+Derby Athletics Development Association Midweek Opens,6-Jun,Jun,Moorways Athletics Stadium,Derby,1,,,OUT 23/109,,
 RJT & NMAC Series Sheffield 2023,6-Jun,Jun,Shu City Athletics Stadium (Woodburn Road),Sheffield,1,,https://www.race-results.co.uk/results/2023/67,OUT 23/295,-1.470097,53.385013
 Manchester Open Pole Vault,6-Jun,Jun,Manchester Regional Athletics Arena,Sportcity,2,WA F,,OUT 23/302,-2.244834,53.471419
 Oxon & Bucks Midweek Open Meeting,7-Jun,Jun,Oxford Horspath Athletics Stadium,Horspath,1,,https://www.rosterathletics.com/,OUT 23/114,,
 Midland Veterans League - North,7-Jun,Jun,Shobnall Athletics Track,Burton,1,,https://mvtfl.wordpress.com/,OUT 23/147,-0.56667,53.26667
 Eastern Masters League,7-Jun,Jun,Rockingham Triangle Sports Stadium (Corby),Corby,1,,https://emac.org.uk/2023-tf-league/,OUT 23/215,,
 Eastern Masters League,7-Jun,Jun,Cambridge University Athletics Track,Cambridge,1,,https://emac.org.uk/2023-tf-league/,OUT 23/215,0.098906,52.206767
-Eastern Masters League,7-Jun,Jun,Blackshots Athletic Stadium (Thurrock),Grays,1,,https://emac.org.uk/2023-tf-league/,OUT 23/215,-79.40971,36.087268
+Eastern Masters League,7-Jun,Jun,Blackshots Athletic Stadium (Thurrock),Grays,1,,https://emac.org.uk/2023-tf-league/,OUT 23/215,,
 BMC Gold Standard Races,7-Jun,Jun,University of Birmingham,Birmingham (U),2,WA F,,OUT 23/303,-1.93012,52.45082
 University of Birmingham Series,7-Jun,Jun,University of Birmingham,Birmingham (U),2,,,OUT 23/331,-1.93012,52.45082
 The 14th Joe Moran Memorial  Veteran Meeting,7-Jun,Jun,Manchester Regional Athletics Arena,Sportcity,1,,,OUT 23/338,-2.244834,53.471419
-Tommy Clay Development Meeting,9-Jun,Jun,Princess Royal Sports Arena (DABSI),Boston,1,,,OUT 23/052,121.8087,-32.12121
+Tommy Clay Development Meeting,9-Jun,Jun,Princess Royal Sports Arena (DABSI),Boston,1,,,OUT 23/052,,
 East Area Prep Schools Championships,9-Jun,Jun,Bedford International Athletics Stadium,Bedford,1,,,OUT 23/340,-0.4675041,52.1363806
 British Milers Club Grand Prix,10-Jun,Jun,Paula Radcliffe Athletics Stadium,Loughborough,2,WA D,https://www.britishmilersclub.com/,OUT 23/255,-1.230372,52.769183
 South Yorkshire County Schools Championships,10-Jun,Jun,Keepmoat Stadium,Doncaster,1,,,OUT 23/347,-1.113771303,53.50977845
 Warwickshire County Schools Championships,10-Jun,Jun,The Pingles Stadium,Nuneaton,1,,,OUT 23/355,-1.464162493,52.515688
-Nottinghamshire County Schools Championshisp,10-Jun,Jun,Newark Sports Village,Newark,1,,,OUT 23/356,-96.830873,33.161982
+Nottinghamshire County Schools Championshisp,10-Jun,Jun,Newark Sports Village,Newark,1,,,OUT 23/356,,
 West Yorkshire County Schools Championships,10-Jun,Jun,Beckett Park Athletics Centre,Leeds (B),1,,,OUT 23/362,-0.051251,51.492313
 National Athletics League Premier Division Fixture A,11-Jun,Jun,Manchester Regional Athletics Arena,Sportcity,2,WA E,https://www.nationalathleticsleague.org.uk/,OUT 23/023,-2.244834,53.471419
 Wessex Young Athletes' League,11-Jun,Jun,Aldershot Military Stadium,Aldershot,1,,https://www.wessexleaguetandf.co.uk/,OUT 23/038,-0.7545890271,51.26467925
@@ -498,7 +498,7 @@ Humber County AA  Open Series 1,11-Jun,Jun,Costello Stadium,Hull,1,,,OUT 23/081,
 Midland Masters Championships,11-Jun,Jun,The Pingles Stadium,Nuneaton,2,,,OUT 23/174,-1.464162493,52.515688
 National Athletics League Division 1,11-Jun,Jun,Palmer Park Athletic Track,Reading,1,,,OUT 23/193,-0.9696512,51.456659
 Manx Harriers Championships,11-Jun,Jun,National Sports Centre (IOM),Douglas,1,,,OUT 23/225,-4.504653,54.152616
-Aztec Track & Field Series,11-Jun,Jun,Footes Lane (Garenne Stand),St. Peter Port,1,,,OUT 23/230,-4.98944,51.63778
+Aztec Track & Field Series,11-Jun,Jun,Footes Lane (Garenne Stand),St. Peter Port,1,,,OUT 23/230,,
 Triangular League,11-Jun,Jun,Dell Athletics Stadium,Brierley Hill,1,,,OUT 23/282,-2.1237803,52.4823185
 Trafford Grand Prix,13-Jun,Jun,Longford Park Athletics Stadium,Stretford,2,WA F,https://www.traffordac.co.uk/php/index.php?script=home.php,OUT 23/065,-2.28935,53.44636
 BMC Gold Standard  - Trafford ,13-Jun,Jun,Longford Park Athletics Stadium,Stretford,2,WA F,https://www.britishmilersclub.com/,OUT 23/125,-2.28935,53.44636
@@ -506,7 +506,7 @@ Cambridgeshire Evening Open Meeting 2,14-Jun,Jun,"One Leisure Outdoor Centre, St
 Watford Harriers Open Graded Meetings,14-Jun,Jun,Woodside Stadium,Watford,2,WA F,,OUT 23/092,-0.3945440682,51.69587595
 Watford Open Field Events,14-Jun,Jun,Woodside Stadium,Watford,1,,,OUT 23/100,-0.3945440682,51.69587595
 BMC Watford Gold Standard,14-Jun,Jun,Woodside Stadium,Watford,2,WA F,https://www.britishmilersclub.com/,OUT 23/138,-0.3945440682,51.69587595
-Manchester World Athletics Continental Tour - CANCELLED,14-Jun,Jun,Manchester Regional Athletics Arena (Outdoor),Sportcity,2,,,CANCELLED,-122.541825,47.550912
+Manchester World Athletics Continental Tour - CANCELLED,14-Jun,Jun,Manchester Regional Athletics Arena (Outdoor),Sportcity,2,,,CANCELLED,,
 North East Grand Prix,14-Jun,Jun,Monkton Stadium,Jarrow,1,,https://necaa.weebly.com/,OUT 23/157,-1.497931582,54.9656323
 Isle of Man League,14-Jun,Jun,National Sports Centre (IOM),Douglas,1,,,OUT 23/224,-4.504653,54.152616
 Chelmsford Open Meeting ,14-Jun,Jun,Chelmsford Sport & Athletics Centre,Chelmsford,1,,,OUT 23/240,0.4505023408,51.75319275
@@ -523,7 +523,7 @@ England Athletics U20 Championships & U20 Open,17-Jun,Jun,Chelmsford Sport & Ath
 Mid Lancs Track & Field League,17-Jun,Jun,Litherland Athletics Track,Litherland,1,,http://www.midlancs.org.uk/,OUT 23/352,-2.995685,53.4720901
 Kent Young Athletes League Division 1,17-Jun,Jun,Norman Park Athletic Track,Bromley,1,,,OUT 23/357,1.03333,51.88333
 Kent Young Athletes League Division 2,17-Jun,Jun,Norman Park Athletic Track,Bromley,1,,,OUT 23/357,1.03333,51.88333
-Northern Track & Field League East 1S,18-Jun,Jun,Moorways Athletics Stadium,Derby,1,,https://www.northernathletics.co.uk/track-field-league/,OUT 23/028,120.533552,15.345588
+Northern Track & Field League East 1S,18-Jun,Jun,Moorways Athletics Stadium,Derby,1,,https://www.northernathletics.co.uk/track-field-league/,OUT 23/028,,
 Northern Track & Field League East 1N,18-Jun,Jun,Princess Mary Athletic Stadium,Cleckheaton,1,,https://www.northernathletics.co.uk/track-field-league/,OUT 23/029,-1.7140939,53.7264346
 Northern Track & Field League West Premier,18-Jun,Jun,The Oval Stadium,Bebington,1,,https://www.northernathletics.co.uk/track-field-league/,OUT 23/030,-3.005598,53.3503775
 Northern Track & Field League West 2,18-Jun,Jun,Sheepmount Athletics Stadium,Carlisle,1,,https://www.northernathletics.co.uk/track-field-league/,OUT 23/031,-2.947561,54.902903
@@ -561,9 +561,9 @@ British Milers Regional Meeting,21-Jun,Jun,Linford Christie Stadium,Wormwood Scr
 British Milers Club Regional Race,21-Jun,Jun,Bracknell Sports & Leisure Centre Athletics Stadium,Bracknell,1,,https://www.britishmilersclub.com/,OUT 23/262,-0.7449925,51.4143513
 Thames Valley Harriers Open Meeting,21-Jun,Jun,Linford Christie Stadium,Wormwood Scrubs,1,,https://entry4sports.co.uk/#/,OUT 23/327,-0.235065,51.519692
 The Manchester Mile,21-Jun,Jun,Manchester Regional Athletics Arena,Sportcity,1,,,OUT 23/339,-2.244834,53.471419
-Shropshire Young Athletes League,22-Jun,Jun,Telford Athletics Stadium,Telford,1,,,OUT 23/310,120.533552,15.345588
-Shropshire Young Athlete's League,22-Jun,Jun,Telford Athletics Stadium,Telford,1,,,OUT 23/353,120.533552,15.345588
-Tommy Clay Development Meeting,23-Jun,Jun,Princess Royal Sports Arena (DABSI),Boston,1,,,OUT 23/052,121.8087,-32.12121
+Shropshire Young Athletes League,22-Jun,Jun,Telford Athletics Stadium,Telford,1,,,OUT 23/310,,
+Shropshire Young Athlete's League,22-Jun,Jun,Telford Athletics Stadium,Telford,1,,,OUT 23/353,,
+Tommy Clay Development Meeting,23-Jun,Jun,Princess Royal Sports Arena (DABSI),Boston,1,,,OUT 23/052,,
 Southern Counties Veterans AC Kent Division 1,23-Jun,Jun,Norman Park Athletic Track,Bromley,1,,http://www.scvac.org.uk/track.htm,OUT 23/286,1.03333,51.88333
 Southern Counties Veterans AC Kent Division 2,23-Jun,Jun,Norman Park Athletic Track,Bromley,1,,http://www.scvac.org.uk/track.htm,OUT 23/286,1.03333,51.88333
 Trafford Medal Meetings,24-Jun,Jun,Longford Park Athletics Stadium,Stretford,1,,https://www.traffordac.co.uk/php/index.php?script=home.php,OUT 23/022,-2.28935,53.44636
@@ -580,7 +580,7 @@ North East Youth Development League - Division 2,25-Jun,Jun,Monkton Stadium,Jarr
 Yorkshire & District League 1,25-Jun,Jun,Dorothy Hyman Sports Centre,Cudworth,1,,,OUT 23/146,-1.411029309,53.57425995
 Yorkshire & District League Division 2,25-Jun,Jun,Dorothy Hyman Sports Centre,Cudworth,1,,,OUT 23/146,-1.411029309,53.57425995
 Avon League,25-Jun,Jun,Yate Outdoor Sports Complex,Yate,1,,http://s250914043.websitehome.co.uk/avonleague/,OUT 23/198,-2.4134281,51.5403113
-Aztec Track & Field Series,25-Jun,Jun,Footes Lane (Garenne Stand),St. Peter Port,1,,,OUT 23/230,-4.98944,51.63778
+Aztec Track & Field Series,25-Jun,Jun,Footes Lane (Garenne Stand),St. Peter Port,1,,,OUT 23/230,,
 UK Youth Development League Upper - Southern Premier,25-Jun,Jun,Norman Park Athletic Track,Bromley,2,WA F,,OUT 23/258,1.03333,51.88333
 Southern Counties VAC League - Herts & North Middlesex Division,26-Jun,Jun,Ridlins Wood Athletics Track,Stevenage,1,,,OUT 23/326,-0.2027155,51.9016663
 Trafford Grand Prix,27-Jun,Jun,Longford Park Athletics Stadium,Stretford,2,WA F,https://www.traffordac.co.uk/php/index.php?script=home.php,OUT 23/065,-2.28935,53.44636
@@ -615,7 +615,7 @@ Eastern Masters League,5-Jul,Jul,Lynnsport Athletics Track,King's Lynn,1,,https:
 Eastern Masters League,5-Jul,Jul,Bedford International Athletics Stadium,Bedford,1,,https://emac.org.uk/2023-tf-league/,OUT 23/215,-0.4675041,52.1363806
 Eastern Masters League,5-Jul,Jul,West Suffolk Athletics Arena,Bury St. Edmunds,1,,https://emac.org.uk/2023-tf-league/,OUT 23/215,0.6994769977,52.25094525
 Shropshire Young Athlete's League,6-Jul,Jul,Willam Brookes Academy - Much Wenlock,Much Wenlock,1,,,OUT 23/353,-2.5578451,52.5955951
-Tommy Clay Development Meeting,7-Jul,Jul,Princess Royal Sports Arena (DABSI),Boston,1,,,OUT 23/052,121.8087,-32.12121
+Tommy Clay Development Meeting,7-Jul,Jul,Princess Royal Sports Arena (DABSI),Boston,1,,,OUT 23/052,,
 "Northern 10,000m Championships ",7-Jul,Jul,Leigh Sports Village,Leigh,2,WA F,https://www.northernathletics.co.uk/#,OUT 23/066,-2.5305682,53.4883788
 Southern Counties Veterans AC Kent Division 1,7-Jul,Jul,Tonbridge School Athletics Track,Tonbridge,1,,http://www.scvac.org.uk/track.htm,OUT 23/286,0.275167,51.200872
 Southern Counties Veterans AC Kent Division 2,7-Jul,Jul,Tonbridge School Athletics Track,Tonbridge,1,,http://www.scvac.org.uk/track.htm,OUT 23/286,0.275167,51.200872
@@ -635,27 +635,27 @@ Southern Athletics League Division 2 North & East,9-Jul,Jul,Central Park Athleti
 Northern Track & Field League West 1S,9-Jul,Jul,The Sports Centre - Edge Hill University,Ormskirk,1,,https://www.northernathletics.co.uk/track-field-league/,OUT 23/075,-2.867699,53.557479
 Northern Track & Field League West 1N,9-Jul,Jul,Witton Park Track,Blackburn,1,,https://www.northernathletics.co.uk/track-field-league/,OUT 23/084,-1.415596,53.429025
 Northern Track & Field League North East Premier,9-Jul,Jul,Middlesbrough Sports Village,Middlesbrough,1,,https://www.northernathletics.co.uk/track-field-league/,OUT 23/107,-1.210556246,54.54434965
-Northern Track & Field League East 2,9-Jul,Jul,Newark Sports Village,Newark,1,,https://www.northernathletics.co.uk/track-field-league/,OUT 23/120,-96.830873,33.161982
+Northern Track & Field League East 2,9-Jul,Jul,Newark Sports Village,Newark,1,,https://www.northernathletics.co.uk/track-field-league/,OUT 23/120,,
 "4J Studios scottishathletics Combined Events, Masters & Parallel Success Open",9-Jul,Jul,Grangemouth Sports Stadium,Grangemouth,2,WA F,https://scottishathletics.sportserve.net/pages/event/athletics/athleticsfixturelist.aspx?pid=10000,OUT 23/126,-3.7230303,56.0189027
 Midland Counties League Division 1,9-Jul,Jul,Harvey Hadden Athletic Stadium,Nottingham,1,,https://midland-athletics.co.uk/disciplines/league/,OUT 23/171,-1.216395,52.968063
 Midland Counties League Division 4SE,9-Jul,Jul,North Oxfordshire Academy,Banbury,1,,https://midland-athletics.co.uk/disciplines/league/,OUT 23/172,-1.368062378,52.0729955
 Southern Athletics League Divisions 3 Kent,9-Jul,Jul,Julie Rose Stadium,Ashford,1,,https://www.southernathletics.org.uk/,OUT 23/226,0.899562,51.1552996
 Southern Athletics League Divisions 3 South,9-Jul,Jul,Julie Rose Stadium,Ashford,1,,https://www.southernathletics.org.uk/,OUT 23/226,0.899562,51.1552996
-NatWest International Island Games 2023,9-Jul,Jul,Footes Lane (Garenne Stand),St. Peter Port,2,WA F,https://www.iiga.org/,OUT 23/229,-4.98944,51.63778
+NatWest International Island Games 2023,9-Jul,Jul,Footes Lane (Garenne Stand),St. Peter Port,2,WA F,https://www.iiga.org/,OUT 23/229,,
 Midland Counties League Division 4NE,9-Jul,Jul,Wyndley Leisure Centre,Sutton Coldfield,1,,https://midland-athletics.co.uk/disciplines/league/,OUT 23/234,-1.8329144,52.5620004
-Midland Counties League Division 2,9-Jul,Jul,Telford Athletics Stadium,Telford,1,,https://midland-athletics.co.uk/disciplines/league/,OUT 23/285,120.533552,15.345588
+Midland Counties League Division 2,9-Jul,Jul,Telford Athletics Stadium,Telford,1,,https://midland-athletics.co.uk/disciplines/league/,OUT 23/285,,
 Southern Athletics League Division 1,9-Jul,Jul,Norman Park Athletic Track,Bromley,1,,https://www.southernathletics.org.uk/,OUT 23/341,1.03333,51.88333
 Southern Athletics League Division 1,9-Jul,Jul,Chelmsford Sport & Athletics Centre,Chelmsford,1,,https://www.southernathletics.org.uk/,OUT 23/341,0.4505023408,51.75319275
 Southern Athletics League Division 1,9-Jul,Jul,Salisbury Running Track,Salisbury,1,,https://www.southernathletics.org.uk/,OUT 23/341,-1.80584,51.07414
 Southern Athletics League Division 3 North - No Pole Vault,9-Jul,Jul,Southend Leisure & Tennis Centre Athletics Track,Southend,1,,https://www.southernathletics.org.uk/,OUT 23/349,,
 Southern Athletics League Division 3 North,9-Jul,Jul,Bedford International Athletics Stadium,Bedford,1,,https://www.southernathletics.org.uk/,OUT 23/349,-0.4675041,52.1363806
 Southern Athletics League Division 3 North,9-Jul,Jul,Sandy Sports Centre (Biggleswade),Sandy,1,,https://www.southernathletics.org.uk/,OUT 23/349,-0.2931657,52.1295713
-NatWest International Island Games 2023,10-Jul,Jul,Footes Lane (Garenne Stand),St. Peter Port,2,WA F,https://www.iiga.org/,OUT 23/229,-4.98944,51.63778
+NatWest International Island Games 2023,10-Jul,Jul,Footes Lane (Garenne Stand),St. Peter Port,2,WA F,https://www.iiga.org/,OUT 23/229,,
 Invicta East Kent AC Open Meeting,10-Jul,Jul,Canterbury High School,Canterbury,1,,https://invictaeastkentac.org.uk/index.php,OUT 23/312,1.0634828,51.2793854
 Trafford Grand Prix,11-Jul,Jul,Longford Park Athletics Stadium,Stretford,2,WA F,https://www.traffordac.co.uk/php/index.php?script=home.php,OUT 23/065,-2.28935,53.44636
-Derby Athletics Development Association Midweek Opens,11-Jul,Jul,Moorways Athletics Stadium,Derby,1,,,OUT 23/109,120.533552,15.345588
+Derby Athletics Development Association Midweek Opens,11-Jul,Jul,Moorways Athletics Stadium,Derby,1,,,OUT 23/109,,
 BMC Gold Standard  - Trafford ,11-Jul,Jul,Longford Park Athletics Stadium,Stretford,2,WA F,https://www.britishmilersclub.com/,OUT 23/125,-2.28935,53.44636
-NatWest International Island Games 2023,11-Jul,Jul,Footes Lane (Garenne Stand),St. Peter Port,2,WA F,https://www.iiga.org/,OUT 23/229,-4.98944,51.63778
+NatWest International Island Games 2023,11-Jul,Jul,Footes Lane (Garenne Stand),St. Peter Port,2,WA F,https://www.iiga.org/,OUT 23/229,,
 Midland Veterans League - North,12-Jul,Jul,Wyndley Leisure Centre,Sutton Coldfield,1,,https://mvtfl.wordpress.com/,OUT 23/073,-1.8329144,52.5620004
 West Yorkshire League,12-Jul,Jul,Thornes Park Athletics Stadium,Wakefield,1,,www.wakefield -harriers.co.uk/wytfl/wyl23index.htm,OUT 23/078,-1.51464,53.67606
 Watford Harriers Open Graded Meetings,12-Jul,Jul,Woodside Stadium,Watford,2,WA F,,OUT 23/092,-0.3945440682,51.69587595
@@ -663,16 +663,16 @@ Watford Open Field Events,12-Jul,Jul,Woodside Stadium,Watford,1,,,OUT 23/100,-0.
 BMC Watford Gold Standard,12-Jul,Jul,Woodside Stadium,Watford,2,WA F,https://www.britishmilersclub.com/,OUT 23/138,-0.3945440682,51.69587595
 North East Grand Prix,12-Jul,Jul,Monkton Stadium,Jarrow,1,,https://necaa.weebly.com/,OUT 23/157,-1.497931582,54.9656323
 Southern Counties VAC League - Mid-London Division,12-Jul,Jul,Perivale Park Athletic Track,Perivale,1,,,OUT 23/195,-0.33712,51.532246
-NatWest International Island Games 2023,12-Jul,Jul,Footes Lane (Garenne Stand),St. Peter Port,2,WA F,https://www.iiga.org/,OUT 23/229,-4.98944,51.63778
+NatWest International Island Games 2023,12-Jul,Jul,Footes Lane (Garenne Stand),St. Peter Port,2,WA F,https://www.iiga.org/,OUT 23/229,,
 BMC Gold Standard Races,12-Jul,Jul,University of Birmingham,Birmingham (U),2,WA F,,OUT 23/303,-1.93012,52.45082
 BMC Regional Race,12-Jul,Jul,Paula Radcliffe Athletics Stadium,Loughborough,1,,https://www.britishmilersclub.com/,OUT 23/320,-1.230372,52.769183
-NatWest International Island Games 2023,13-Jul,Jul,Footes Lane (Garenne Stand),St. Peter Port,2,WA F,https://www.iiga.org/,OUT 23/229,-4.98944,51.63778
-NatWest International Island Games 2023,14-Jul,Jul,Footes Lane (Garenne Stand),St. Peter Port,2,WA F,https://www.iiga.org/,OUT 23/229,-4.98944,51.63778
+NatWest International Island Games 2023,13-Jul,Jul,Footes Lane (Garenne Stand),St. Peter Port,2,WA F,https://www.iiga.org/,OUT 23/229,,
+NatWest International Island Games 2023,14-Jul,Jul,Footes Lane (Garenne Stand),St. Peter Port,2,WA F,https://www.iiga.org/,OUT 23/229,,
 Essex County Relay Championships,14-Jul,Jul,Chelmsford Sport & Athletics Centre,Chelmsford,1,,,OUT 23/292,0.4505023408,51.75319275
 Reading AC Development League,14-Jul,Jul,Palmer Park Athletic Track,Reading,1,,,OUT 23/305,-0.9696512,51.456659
-Humber County AA  Open Series 1,15-Jul,Jul,King George V Stadium,Griomsby,1,,,OUT 23/081,-0.059049,53.555316
+Humber County AA  Open Series 1,15-Jul,Jul,King George V Stadium,Griomsby,1,,,OUT 23/081,-0.0590485,53.555316
 National Athletics League Division 1,15-Jul,Jul,Longford Park Athletics Stadium,Stretford,1,,,OUT 23/193,-2.28935,53.44636
-Derbyshire Mini League,15-Jul,Jul,Moorways Athletics Stadium,Derby,1,,,OUT 23/329,120.533552,15.345588
+Derbyshire Mini League,15-Jul,Jul,Moorways Athletics Stadium,Derby,1,,,OUT 23/329,,
 Cumbria League,15-Jul,Jul,Sheepmount Athletics Stadium,Carlisle,1,,,OUT 23/337,-2.947561,54.902903
 Mid Lancs Track & Field League,15-Jul,Jul,Salt Ayre Sports Centre,Lancaster,1,,http://www.midlancs.org.uk/,OUT 23/352,-2.822278792,54.0553877
 Kent Young Athletes League Division 1,15-Jul,Jul,Medway Park,Gillingham,1,,,OUT 23/357,0.5410061101,51.3905889
@@ -699,9 +699,9 @@ BMC Regional Meeting,19-Jul,Jul,Mary Peters Stadium,Belfast,2,WA,https://www.bri
 Isle of Man League,19-Jul,Jul,National Sports Centre (IOM),Douglas,1,,,OUT 23/224,-4.504653,54.152616
 Rosenheim League - West - NO FIELD EVENTS,19-Jul,Jul,St Mary's University College,Twickenham,1,,,OUT 23/350,-0.3385983653,51.43767905
 Rosenheim League - East,19-Jul,Jul,Tooting Bec Athletics Track,Tooting Bec,1,,,OUT 23/350,-0.1458246,51.4311924
-Aztec Track & Field Series,20-Jul,Jul,Footes Lane (Garenne Stand),St. Peter Port,1,,,OUT 23/230,-4.98944,51.63778
+Aztec Track & Field Series,20-Jul,Jul,Footes Lane (Garenne Stand),St. Peter Port,1,,,OUT 23/230,,
 Waverley Summer Jumps,20-Jul,Jul,Woolmer Hill Recreation Ground,Haslemere,1,,,OUT 23/348,-0.7097768,51.0876062
-Tommy Clay Development Meeting,21-Jul,Jul,Princess Royal Sports Arena (DABSI),Boston,1,,,OUT 23/052,121.8087,-32.12121
+Tommy Clay Development Meeting,21-Jul,Jul,Princess Royal Sports Arena (DABSI),Boston,1,,,OUT 23/052,,
 Middlesex Young Athletes League,22-Jul,Jul,Stonex Stadium,Hendon,1,,,OUT 23/277,-0.2236569504,51.60371995
 England Athletics Senior & Disability Championships,22-Jul,Jul,Chelmsford Sport & Athletics Centre,Chelmsford,2,WA,https://www.englandathletics.org/athletics-and-running/england-competitions/national-championships/2023-championships-calendar-and-results/,OUT 23/291,0.4505023408,51.75319275
 Trafford Medal Meetings,23-Jul,Jul,Longford Park Athletics Stadium,Stretford,1,,https://www.traffordac.co.uk/php/index.php?script=home.php,OUT 23/022,-2.28935,53.44636
@@ -729,23 +729,23 @@ Scottish National Athletics League ,30-Jul,Jul,Grangemouth Sports Stadium,Grange
 East Anglian League,30-Jul,Jul,"One Leisure Outdoor Centre, St. Ives",St. Ives,1,,http://cambsathletics.org.uk/east-anglian-tf-league/,OUT 23/124,-0.092947,52.336512
 East Anglian League,30-Jul,Jul,Lynnsport Athletics Track,King's Lynn,1,,http://cambsathletics.org.uk/east-anglian-tf-league/,OUT 23/124,0.3954774,52.7538673
 East Anglian League,30-Jul,Jul,Southend Leisure & Tennis Centre Athletics Track,Southend,1,,http://cambsathletics.org.uk/east-anglian-tf-league/,OUT 23/124,,
-UK Youth Development League Upper - Southern Premier,30-Jul,Jul,K2 Athletics Stadium,Crawley,1,,https://www.ukydl.org.uk/,OUT 23/128,120.533552,15.345588
+UK Youth Development League Upper - Southern Premier,30-Jul,Jul,K2 Athletics Stadium,Crawley,1,,https://www.ukydl.org.uk/,OUT 23/128,,
 UK Youth Development League Upper - Southern 1A,30-Jul,Jul,Perivale Park Athletic Track,Perivale,1,,https://www.ukydl.org.uk/,OUT 23/128,-0.33712,51.532246
 UK Youth Development League Upper - Southern 2A,30-Jul,Jul,Xcel Sports Hub - Waterside Drive,Walton,1,,https://www.ukydl.org.uk/,OUT 23/128,-0.411091,51.398763
 UK Youth Development League Upper - Southern 1B,30-Jul,Jul,Sutcliffe Park Athletics Track,Eltham,1,,https://www.ukydl.org.uk/,OUT 23/128,0.0541253,51.4505687
 UK Youth Development League Upper - Southern 2B,30-Jul,Jul,Central Park Athletics Arena,Dartford,1,,https://www.ukydl.org.uk/,OUT 23/128,0.220864,51.441631
-Nottinghamshire County Development League,30-Jul,Jul,Newark Sports Village,Newark,1,,,OUT 23/179,-96.830873,33.161982
+Nottinghamshire County Development League,30-Jul,Jul,Newark Sports Village,Newark,1,,,OUT 23/179,,
 South of England Combined Events Championships,30-Jul,Jul,Oxford Horspath Athletics Stadium,Horspath,2,WA F,,OUT 23/335,,
 Westfield Health British Transplant Games,31-Jul,Jul,Coventry Athletic Track - University of Warwick,Coventry,1,,,OUT 23/104,-1.510477,52.4081812
 North East Masters AA League,31-Jul,Jul,Monkton Stadium,Jarrow,1,,https://www.nemaa.co.uk/track-and-field.html,OUT 23/205,-1.497931582,54.9656323
-Derby Athletics Development Association Midweek Opens,1-Aug,Aug,Moorways Athletics Stadium,Derby,1,,,OUT 23/109,120.533552,15.345588
+Derby Athletics Development Association Midweek Opens,1-Aug,Aug,Moorways Athletics Stadium,Derby,1,,,OUT 23/109,,
 Eastern Masters League,1-Aug,Aug,Embankment Athletics Track,Peterborough,1,,https://emac.org.uk/2023-tf-league/,OUT 23/215,-0.233043,52.570904
 Oxon & Bucks Midweek Open Meeting,2-Aug,Aug,Oxford Horspath Athletics Stadium,Horspath,1,,https://www.rosterathletics.com/,OUT 23/114,,
 Eastern Masters League,2-Aug,Aug,Sandy Sports Centre (Biggleswade),Sandy,1,,https://emac.org.uk/2023-tf-league/,OUT 23/215,-0.2931657,52.1295713
 Eastern Masters League,2-Aug,Aug,Chelmsford Sport & Athletics Centre,Chelmsford,1,,https://emac.org.uk/2023-tf-league/,OUT 23/215,0.4505023408,51.75319275
 British Milers Regional Meeting,2-Aug,Aug,Linford Christie Stadium,Wormwood Scrubs,1,,https://www.britishmilersclub.com/,OUT 23/256,-0.235065,51.519692
 Thames Valley Harriers Open Meeting,2-Aug,Aug,Linford Christie Stadium,Wormwood Scrubs,1,,https://entry4sports.co.uk/#/,OUT 23/327,-0.235065,51.519692
-Tommy Clay Development Meeting,4-Aug,Aug,Princess Royal Sports Arena (DABSI),Boston,1,,,OUT 23/052,121.8087,-32.12121
+Tommy Clay Development Meeting,4-Aug,Aug,Princess Royal Sports Arena (DABSI),Boston,1,,,OUT 23/052,,
 National Athletics League Division 1,5-Aug,Aug,Stantonbury Stadium,Milton Keynes,1,,,OUT 23/193,-0.769329,52.058685
 England Athletics U15 & U17 Combined Event Championships,5-Aug,Aug,Manchester Regional Athletics Arena,Sportcity,2,WA F,https://www.englandathletics.org/athletics-and-running/england-competitions/national-championships/2023-championships-calendar-and-results/,OUT 23/301,-2.244834,53.471419
 Trafford Medal Meetings,6-Aug,Aug,Longford Park Athletics Stadium,Stretford,1,,https://www.traffordac.co.uk/php/index.php?script=home.php,OUT 23/022,-2.28935,53.44636
@@ -755,7 +755,7 @@ Eastern Young Athletes League,6-Aug,Aug,Braintree Leisure Centre,Braintree,1,,,O
 Eastern Young Athletes League - NO HAMMER/DISCUS/CLUB THROW/WEIGHT THROW,6-Aug,Aug,Brentwood School Athletics Track,Brentwood,1,,,OUT 23/086,0.3018662,51.6201654
 Eastern Young Athletes League,6-Aug,Aug,Woodside Stadium,Watford,1,,,OUT 23/086,-0.3945440682,51.69587595
 Avon League,6-Aug,Aug,Blackbridge Athletics Track,Gloucester,1,,http://s250914043.websitehome.co.uk/avonleague/,OUT 23/198,-2.235105,51.853862
-Aztec Track & Field Series,6-Aug,Aug,Footes Lane (Garenne Stand),St. Peter Port,1,,,OUT 23/230,-4.98944,51.63778
+Aztec Track & Field Series,6-Aug,Aug,Footes Lane (Garenne Stand),St. Peter Port,1,,,OUT 23/230,,
 Alder Valley League,6-Aug,Aug,Hillingdon Athletics Centre,Hillingdon,1,,,OUT 23/239,-0.4696,51.532412
 England Athletics U15 & U17 Combined Event Championships,6-Aug,Aug,Manchester Regional Athletics Arena,Sportcity,2,WA F,https://www.englandathletics.org/athletics-and-running/england-competitions/national-championships/2023-championships-calendar-and-results/,OUT 23/301,-2.244834,53.471419
 BMC Regional Race,7-Aug,Aug,Beckett Park Athletics Centre,Leeds (B),1,,https://www.britishmilersclub.com/,OUT 23/192,-0.051251,51.492313
@@ -794,7 +794,7 @@ BMC Regional Meeting,16-Aug,Aug,Sutcliffe Park Athletics Track,Eltham,1,,https:/
 Lily B League - Match 1,16-Aug,Aug,David Weir Leisure Centre (formerley Sutton Arena),Carshalton,1,,,OUT 23/321,-0.1610857,51.3657883
 Rosenheim League - Final,16-Aug,Aug,Weir Archer Athletics Track (Kingsmeadow),Kingston,1,,,OUT 23/350,,
 Lily B League - Match 2,17-Aug,Aug,David Weir Leisure Centre (formerley Sutton Arena),Carshalton,1,,,OUT 23/321,-0.1610857,51.3657883
-Tommy Clay Development Meeting,18-Aug,Aug,Princess Royal Sports Arena (DABSI),Boston,1,,,OUT 23/052,121.8087,-32.12121
+Tommy Clay Development Meeting,18-Aug,Aug,Princess Royal Sports Arena (DABSI),Boston,1,,,OUT 23/052,,
 Ebbisham League Division 1,18-Aug,Aug,Weir Archer Athletics Track (Kingsmeadow),Kingston,1,,,OUT 23/322,,
 Northern Track & Field League East 1S,19-Aug,Aug,Shu City Athletics Stadium (Woodbourn Road),Sheffield,1,,https://www.northernathletics.co.uk/track-field-league/,OUT 23/028,-1.438958,53.384824
 Northern Track & Field League East 1N,19-Aug,Aug,Dorothy Hyman Sports Centre,Cudworth,1,,https://www.northernathletics.co.uk/track-field-league/,OUT 23/029,-1.411029309,53.57425995
@@ -804,7 +804,7 @@ Northern Track & Field League North East 1,19-Aug,Aug,Middlesbrough Sports Villa
 Northern Track & Field League East Premier,19-Aug,Aug,Costello Stadium,Hull,1,,https://www.northernathletics.co.uk/track-field-league/,OUT 23/044,-0.4107359,53.7372742
 Southern Athletics League Division 3 West,19-Aug,Aug,Brickfields Athletic Track,Plymouth,1,,https://www.southernathletics.org.uk/,OUT 23/060,-4.113637,50.393988
 Southern Athletics League Division 2 North & East,19-Aug,Aug,Sutcliffe Park Athletics Track,Eltham,1,,https://www.southernathletics.org.uk/,OUT 23/070,0.0541253,51.4505687
-Southern Athletics League Division 2 North & East,19-Aug,Aug,Blackshots Athletic Stadium (Thurrock),Grays,1,,https://www.southernathletics.org.uk/,OUT 23/070,-79.40971,36.087268
+Southern Athletics League Division 2 North & East,19-Aug,Aug,Blackshots Athletic Stadium (Thurrock),Grays,1,,https://www.southernathletics.org.uk/,OUT 23/070,,
 Southern Athletics League Division 2 North & East,19-Aug,Aug,Ashton Playing Fields,Woodford,1,,https://www.southernathletics.org.uk/,OUT 23/070,0.05032673229,51.6073283
 Northern Track & Field League West 1S,19-Aug,Aug,Queensway International Stadium,Wrexham,1,,https://www.northernathletics.co.uk/track-field-league/,OUT 23/075,-2.976813,53.044427
 Northern Track & Field League West 1N - NOT YET LICENSED,19-Aug,Aug,Stanley Park Athletics Arena,Blackpool,1,,https://www.northernathletics.co.uk/track-field-league/,OUT 23/084,-3.024618,53.815054
@@ -813,9 +813,9 @@ Northern Track & Field League North East Premier,19-Aug,Aug,Churchill,Whitley Ba
 Northern Track & Field League East 2,19-Aug,Aug,Princess Mary Athletic Stadium,Cleckheaton,1,,https://www.northernathletics.co.uk/track-field-league/,OUT 23/120,-1.7140939,53.7264346
 Midland Counties League Division 1,19-Aug,Aug,The Queen's Diamond Jubilee Centre,Rugby,1,,https://midland-athletics.co.uk/disciplines/league/,OUT 23/171,-1.254627,52.365789
 Midland Counties League Division 4SE,19-Aug,Aug,Tudor Grange Athletics Centre (Norman Green Track),Solihull,1,,https://midland-athletics.co.uk/disciplines/league/,OUT 23/172,-1.7768935,52.4130189
-Southern Athletics League Divisions 3 Kent,19-Aug,Aug,K2 Athletics Stadium,Crawley,1,,https://www.southernathletics.org.uk/,OUT 23/226,120.533552,15.345588
-Southern Athletics League Divisions 3 South,19-Aug,Aug,K2 Athletics Stadium,Crawley,1,,https://www.southernathletics.org.uk/,OUT 23/226,120.533552,15.345588
-Midland Counties League Division 4NE,19-Aug,Aug,Ashfield School Athletics Track,Sutton in Ashfield,1,,https://midland-athletics.co.uk/disciplines/league/,OUT 23/234,-97.998209,41.103428
+Southern Athletics League Divisions 3 Kent,19-Aug,Aug,K2 Athletics Stadium,Crawley,1,,https://www.southernathletics.org.uk/,OUT 23/226,,
+Southern Athletics League Divisions 3 South,19-Aug,Aug,K2 Athletics Stadium,Crawley,1,,https://www.southernathletics.org.uk/,OUT 23/226,,
+Midland Counties League Division 4NE,19-Aug,Aug,Ashfield School Athletics Track,Sutton in Ashfield,1,,https://midland-athletics.co.uk/disciplines/league/,OUT 23/234,,
 Midland Counties League Division 2,19-Aug,Aug,Alexander Stadium - Main Stadium,Birmingham,1,,https://midland-athletics.co.uk/disciplines/league/,OUT 23/285,-1.906396,52.530985
 Ebbisham League Division 2,19-Aug,Aug,Weir Archer Athletics Track (Kingsmeadow),Kingston,1,,,OUT 23/322,,
 Southern Athletics League Division 1 - NO POLE VAULT,19-Aug,Aug,Withdean Stadium,Brighton,1,,https://www.southernathletics.org.uk/,OUT 23/341,-0.1593261361,50.85215175
@@ -838,21 +838,21 @@ Kidderminster & Stourport Mike Lambert Open,28-Aug,Aug,Alan Moreton Track (Stour
 Southend City Open ,28-Aug,Aug,Southend Leisure & Tennis Centre Athletics Track,Southend,1,,https://www.southend-on-sea-athletic-club.co.uk/annual-club-events/,OUT 23/266,,
 Exeter Evening Open Meeting,29-Aug,Aug,Exeter Arena,Exeter,1,,https://exeterharriers.org.uk/events/exeter-open-competitions/,OUT 23/342,-3.491320974,50.73765245
 BMC Regional - Exeter,29-Aug,Aug,Exeter Arena,Exeter,1,,https://www.britishmilersclub.com/,OUT 23/344,-3.491320974,50.73765245
-"Boston Open Combined Events, inc Lincolnshire County Championships",2-Sep,Sep,Princess Royal Sports Arena (DABSI),Boston,1,,,OUT 23/051,121.8087,-32.12121
+"Boston Open Combined Events, inc Lincolnshire County Championships",2-Sep,Sep,Princess Royal Sports Arena (DABSI),Boston,1,,,OUT 23/051,,
 Humber County AA  Open Series 1,2-Sep,Sep,Costello Stadium,Hull,1,,,OUT 23/081,-0.4107359,53.7372742
 BMC Regional Meeting,2-Sep,Sep,Medway Park,Gillingham,1,,https://www.britishmilersclub.com/,OUT 23/196,0.5410061101,51.3905889
-"Boston Open Combined Events, inc Lincolnshire County Championships",3-Sep,Sep,Princess Royal Sports Arena (DABSI),Boston,1,,,OUT 23/051,121.8087,-32.12121
+"Boston Open Combined Events, inc Lincolnshire County Championships",3-Sep,Sep,Princess Royal Sports Arena (DABSI),Boston,1,,,OUT 23/051,,
 South West Athletics League,3-Sep,Sep,Exeter Arena,Exeter,1,,,OUT 23/055,-3.491320974,50.73765245
 Watford Harriers Minors Meetings,3-Sep,Sep,Woodside Stadium,Watford,1,,https://watfordharriers.org.uk/,OUT 23/062,-0.3945440682,51.69587595
 Oxfordshire League,3-Sep,Sep,Tilsley Park Athletics Track,Abingdon,1,,https://oxfordshireathletics.org.uk/track-and-field,OUT 23/117,-1.2779715,51.6714842
 East Anglian League Final,3-Sep,Sep,West Suffolk Athletics Arena,Bury St. Edmunds,1,,http://cambsathletics.org.uk/east-anglian-tf-league/,OUT 23/139,0.6994769977,52.25094525
 Newham & Essex Beagles Track Open Meetings Summer Series 2023,3-Sep,Sep,London Marathon Community Track,London (CT),2,,https://entry4sports.co.uk/,OUT 23/143,-0.016941,51.536909
-Aztec Track & Field Series,3-Sep,Sep,Footes Lane (Garenne Stand),St. Peter Port,1,,,OUT 23/230,-4.98944,51.63778
+Aztec Track & Field Series,3-Sep,Sep,Footes Lane (Garenne Stand),St. Peter Port,1,,,OUT 23/230,,
 Dacorum Athletics Club - Club Championships,3-Sep,Sep,Dacorum Athletics Track (Jarman Park),Hemel Hempstead,1,,,OUT 23/313,-0.472528,51.7511784
 Watford Harriers Open Graded Meetings,6-Sep,Sep,Woodside Stadium,Watford,2,WA F,,OUT 23/092,-0.3945440682,51.69587595
 Watford Open Field Events,6-Sep,Sep,Woodside Stadium,Watford,1,,,OUT 23/100,-0.3945440682,51.69587595
 North East Relays Night,6-Sep,Sep,Monkton Stadium,Jarrow,1,,https://necaa.weebly.com/,OUT 23/148,-1.497931582,54.9656323
-Tommy Clay Development Meeting,8-Sep,Sep,Princess Royal Sports Arena (DABSI),Boston,1,,,OUT 23/052,121.8087,-32.12121
+Tommy Clay Development Meeting,8-Sep,Sep,Princess Royal Sports Arena (DABSI),Boston,1,,,OUT 23/052,,
 Fourth Trafford Combined Events Classic,9-Sep,Sep,Longford Park Athletics Stadium,Stretford,1,,https://www.traffordac.co.uk/php/index.php?script=home.php,OUT 23/019,-2.28935,53.44636
 Trafford Medal Meetings,9-Sep,Sep,Longford Park Athletics Stadium,Stretford,1,,https://www.traffordac.co.uk/php/index.php?script=home.php,OUT 23/022,-2.28935,53.44636
 BWAA Grand Prix Series,9-Sep,Sep,Stoke Mandeville Stadium,Stoke Mandeville,2,,,OUT 23/089,-0.784342,51.787885
@@ -861,7 +861,7 @@ Eastern Masters League,9-Sep,Sep,Bedford International Athletics Stadium,Bedford
 Cumbria League No pole vault/hammer/discus,9-Sep,Sep,Cumbria Sports Academy,Whitehaven,1,,,OUT 23/337,-3.5569948,54.5332739
 Fourth Trafford Combined Events Classic,10-Sep,Sep,Longford Park Athletics Stadium,Stretford,1,,https://www.traffordac.co.uk/php/index.php?script=home.php,OUT 23/019,-2.28935,53.44636
 West Yorkshire League,10-Sep,Sep,Princess Mary Athletic Stadium,Cleckheaton,1,,www.wakefield -harriers.co.uk/wytfl/wyl23index.htm,OUT 23/078,-1.7140939,53.7264346
-Derby Athletics Development Association Midweek Opens,12-Sep,Sep,Moorways Athletics Stadium,Derby,1,,,OUT 23/109,120.533552,15.345588
+Derby Athletics Development Association Midweek Opens,12-Sep,Sep,Moorways Athletics Stadium,Derby,1,,,OUT 23/109,,
 Oxon & Bucks Midweek Open Meeting,13-Sep,Sep,Oxford Horspath Athletics Stadium,Horspath,1,,https://www.rosterathletics.com/,OUT 23/114,,
 Veterans AC 10000m Championships,13-Sep,Sep,Millenium Arena Battersea Park,Battersea Park,1,,https://data.opentrack.run/en-gb/x/2023/GBR/vet10ktr23/,OUT 23/245,-0.146969,51.47698
 Reading AC Development League,15-Sep,Sep,Palmer Park Athletic Track,Reading,1,,,OUT 23/305,-0.9696512,51.456659
@@ -869,7 +869,7 @@ Liverpool Jumps & Throws,16-Sep,Sep,Wavertree Athletic Track,Liverpool,2,,https:
 CP Sport National Athletics Championships,16-Sep,Sep,Coventry Athletic Track - University of Warwick,Coventry,2,,,OUT 23/111,-1.510477,52.4081812
 Avon League,17-Sep,Sep,Yate Outdoor Sports Complex,Yate,1,,http://s250914043.websitehome.co.uk/avonleague/,OUT 23/198,-2.4134281,51.5403113
 Huntingdonshire AC Club Championships,19-Sep,Sep,"One Leisure Outdoor Centre, St. Ives",St. Ives,1,,,OUT 23/272,-0.092947,52.336512
-Tommy Clay Development Meeting,22-Sep,Sep,Princess Royal Sports Arena (DABSI),Boston,1,,,OUT 23/052,121.8087,-32.12121
+Tommy Clay Development Meeting,22-Sep,Sep,Princess Royal Sports Arena (DABSI),Boston,1,,,OUT 23/052,,
 Trafford Medal Meetings,23-Sep,Sep,Longford Park Athletics Stadium,Stretford,1,,https://www.traffordac.co.uk/php/index.php?script=home.php,OUT 23/022,-2.28935,53.44636
 Exeter Evening Open Meeting,26-Sep,Sep,Exeter Arena,Exeter,1,,https://exeterharriers.org.uk/events/exeter-open-competitions/,OUT 23/342,-3.491320974,50.73765245
-Boston Final Fling Open Throws,8-Oct,Oct,Princess Royal Sports Arena (DABSI),Boston,1,,,OUT 23/051,121.8087,-32.12121
+Boston Final Fling Open Throws,8-Oct,Oct,Princess Royal Sports Arena (DABSI),Boston,1,,,OUT 23/051,,
