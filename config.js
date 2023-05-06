@@ -26,7 +26,7 @@ const config = {
 //    },
     {
       type: 'checkbox',
-      title: 'Month of Event: ',
+      title: 'Filter Events by Month: ',
       columnHeader: 'Month', // Case sensitive - must match spreadsheet entry
       listItems: ['Apr','May','Jun','Jul','Aug','Sep','Oct'], // Case sensitive - must match spreadsheet entry; This will take up to six inputs but is best used with a maximum of three;
     }//,
