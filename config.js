@@ -33,7 +33,7 @@ const config = {
     {
       type: 'checkbox',
       title: 'Filter Opens Only: ',
-      columnHeader: 'Opens', // Case sensitive - must match spreadsheet entry
+      columnHeader: 'Event Name', // Case sensitive - must match spreadsheet entry
       listItems: ['Open'], // Case sensitive - must match spreadsheet entry; This will take up to six inputs but is best used with a maximum of three;
     }//,
 //    {
