@@ -15,15 +15,15 @@ const config = {
   popupInfo: ['Event Name'],
   popupInfo2: ['Entry Details'],
   filters: [
-//    {
-//      type: 'dropdown',
-//      title: 'Languages supported: ',
-//      columnHeader: 'Languages',
-//      listItems: [
-//        'English',
-//        'French'
-//      ],
-//    },
+    {
+      type: 'dropdown',
+      title: 'Meet Type: ',
+      columnHeader: 'Event Name',
+      listItems: [
+        'Open',
+        'League'
+      ],
+    },
     {
       type: 'checkbox',
       title: 'Filter Events by Month: ',
