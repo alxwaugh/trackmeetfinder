@@ -20,8 +20,8 @@ const config = {
       title: 'Meet Type: ',
       columnHeader: 'Event Name',
       listItems: [
-        'Open',
-        'League'
+        'Open'//,
+        //'League'
       ],
     },
     {
