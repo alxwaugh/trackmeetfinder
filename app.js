@@ -246,7 +246,7 @@ function applyFilters() {
       }
       if (filter.type === 'select-one' && filter.value) {
         selectFilters.forEach((objs) => {
-          console.log('in select-one')
+          console.log('in select-one')//
           Object.entries(objs).forEach(([, value]) => {
             if (value.includes(filter.value)) {
               const geojFilter = [objs.header, filter.value];
@@ -263,6 +263,7 @@ function applyFilters() {
       });
     } else if (geojCheckboxFilters.length > 0) {
       geojCheckboxFilters.forEach((filter) => {
+        console.info(filter)//
         geojsonData.features.forEach((feature) => {
           if (feature.properties[filter[0]].includes(filter[1])) {
             if (
