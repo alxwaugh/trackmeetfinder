@@ -246,6 +246,7 @@ function applyFilters() {
       }
       if (filter.type === 'select-one' && filter.value) {
         selectFilters.forEach((objs) => {
+          console.log('in select-one')
           Object.entries(objs).forEach(([, value]) => {
             if (value.includes(filter.value)) {
               const geojFilter = [objs.header, filter.value];
