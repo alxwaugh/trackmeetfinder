@@ -281,6 +281,7 @@ function applyFilters() {
         filteredGeojson.features.forEach((feature) => {
           let selected = true;
           geojSelectFilters.forEach((filter) => {
+            console.info(filter)//
             if (
               feature.properties[filter[0]].indexOf(filter[1]) < 0 &&
               selected === true
