@@ -16,7 +16,7 @@ const config = {
   popupInfo2: ['Entry Details'],
   filters: [
     {
-      type: 'dropdown',
+      type: 'checkbox2',
       title: 'Meet Type: ',
       columnHeader: 'Event Name',
       listItems: [
