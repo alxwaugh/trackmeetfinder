@@ -10,7 +10,7 @@ const config = {
   zoom: 5,
   title: 'Track Meet Finder',
   description:
-    'These are all the Outdoor Track and Field events licenced by England Athletics in 2023 (as of 27th April)',
+    'These are all the Outdoor Track and Field events licenced by England Athletics in 2023 (as of 5th May)',
   sideBarInfo: ['Event Name', 'Date', 'Venue'],
   popupInfo: ['Event Name'],
   popupInfo2: ['Entry Details'],
