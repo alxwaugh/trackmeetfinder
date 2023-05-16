@@ -208,6 +208,14 @@ function createFilterObject(filterSettings) {
       });
       checkboxFilters.push(keyValues);
     }
+    if (filter.type === 'checkbox2') {
+      const keyValues = {};
+      Object.assign(keyValues, {
+        header: filter.columnHeader,
+        value: filter.listItems,
+      });
+      checkboxFilters.push(keyValues);
+    }
     if (filter.type === 'dropdown') {
       const keyValues = {};
       Object.assign(keyValues, {
@@ -233,6 +241,9 @@ function applyFilters() {
     // const filteredFeatures = [];
     // filteredGeojson.features = [];
 
+////////////////////////////////////////////////////////
+//changed here
+////////////////////////////////////////////////////////
     filterOption.forEach((filter) => {
       if (filter.type === 'checkbox' && filter.checked) {
         checkboxFilters.forEach((objs) => {
@@ -240,6 +251,17 @@ function applyFilters() {
             if (value.includes(filter.value)) {
               const geojFilter = [objs.header, filter.value];
               geojCheckboxFilters.push(geojFilter);
+            }
+          });
+        });
+      }
+      if (filter.type === 'checkbox2' && filter.checked) {
+        checkboxFilters.forEach((objs) => {
+          console.log('in checkbox2')//
+          Object.entries(objs).forEach(([, value]) => {
+            if (value.includes(filter.value)) {
+              const geojFilter = [objs.header, filter.value];
+              geojSelectFilters.push(geojFilter);
             }
           });
         });
@@ -327,13 +349,15 @@ function applyFilters() {
     buildLocationList(filteredGeojson);
   });
 }
-
+//changed function
 function filters(filterSettings) {
   filterSettings.forEach((filter) => {
     if (filter.type === 'checkbox') {
       buildCheckbox(filter.title, filter.listItems);
     } else if (filter.type === 'dropdown') {
       buildDropDownList(filter.title, filter.listItems);
+    } else if (filter.type === 'checkbox2') {
+      buildCheckbox(filter.title, filter.listItems);
     }
   });
 }
