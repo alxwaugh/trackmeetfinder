@@ -24,4 +24,8 @@ https://www.englandathletics.org/athletics-and-running/england-competitions/lice
   * Can we do filter by age categories?
   * Can we do a date-range slider rather than the horrendous month checkbox list?
 * Automate the CSV cleanup (ETL)
+  * Match events to set of master locations
+  * Geocode missing locations via geoapify
+  * Add geocoded locations to master locations
+  * Save latest as Meets.csv and update repo  
 * Create master locations dataset that can be used next time EA publish an update
