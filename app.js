@@ -233,8 +233,17 @@ function applyFilters() {
     // const filteredFeatures = [];
     // filteredGeojson.features = [];
 
+    const today = new Date();
+    const isFuture = (dateStr) => {
+      const d = new Date(dateStr);
+      return d >= today;
+    };
+    let includePast = false;
+
     filterOption.forEach((filter) => {
-      if (filter.type === 'checkbox' && filter.checked) {
+      if (filter.type === 'checkbox' && filter.checked && filter.value === 'yes') {
+        includePast = true;
+      } else if (filter.type === 'checkbox' && filter.checked) {
         checkboxFilters.forEach((objs) => {
           Object.entries(objs).forEach(([, value]) => {
             if (value.includes(filter.value)) {
@@ -259,13 +268,15 @@ function applyFilters() {
 
     if (geojCheckboxFilters.length === 0 && geojSelectFilters.length === 0) {
       geojsonData.features.forEach((feature) => {
-        filteredGeojson.features.push(feature);
+        if (includePast || isFuture(feature.properties.Date)) {
+          filteredGeojson.features.push(feature);
+        }
       });
     } else if (geojCheckboxFilters.length > 0) {
       geojCheckboxFilters.forEach((filter) => {
         console.info(filter)//
         geojsonData.features.forEach((feature) => {
-          if (feature.properties[filter[0]].includes(filter[1])) {
+          if (feature.properties[filter[0]].includes(filter[1]) && (includePast || isFuture(feature.properties.Date))) {
             if (
               filteredGeojson.features.filter(
                 (f) => f.properties.id === feature.properties.id,
@@ -314,6 +325,7 @@ function applyFilters() {
         });
         if (
           selected === true &&
+          (includePast || isFuture(feature.properties.Date)) &&
           filteredGeojson.features.filter(
             (f) => f.properties.id === feature.properties.id,
           ).length === 0
