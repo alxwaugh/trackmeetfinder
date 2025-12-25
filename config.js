@@ -10,7 +10,7 @@ const config = {
   zoom: 5,
   title: 'Track Meet Finder',
   description:
-    'These are all the Outdoor Track and Field events licenced by England Athletics',
+    'These are all the upcoming Track and Field events licenced by England Athletics',
   sideBarInfo: ['Event_Name', 'Date', 'Venue'],
   popupInfo: ['Event_Name'],
   popupInfo2: ['Entry_Details'],
@@ -19,6 +19,15 @@ const config = {
       type: 'date-slider',
       title: 'Filter Events by Date Range:',
       columnHeader: 'Date',
+    },
+    {
+      type: 'dropdown',
+      title: 'Venue Type:',
+      columnHeader: 'Venue_Type',
+      listItems: [
+        'Indoor',
+        'Outdoor'
+      ],
     },
     {
       type: 'checkbox',
