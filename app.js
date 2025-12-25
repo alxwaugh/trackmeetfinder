@@ -41,13 +41,21 @@ function createPopup(currentFeatures) {
   let htmlContent = '';
   if (currentFeatures.length === 1) {
     const feature = currentFeatures[0];
-    htmlContent = '<h3>' + feature.properties[config.popupInfo] + '</h3><a href="' + feature.properties[config.popupInfo2] + '" target="_blank">Click for Details</a>';
+    if (feature.properties[config.popupInfo2]) {
+      htmlContent = '<h3><a href="' + feature.properties[config.popupInfo2] + '" target="_blank">' + feature.properties[config.popupInfo] + '</a></h3>' + feature.properties.Date;
+    } else {
+      htmlContent = '<h3>' + feature.properties[config.popupInfo] + '</h3>' + feature.properties.Date;
+    }
   } else {
     // Sort events by date
     currentFeatures.sort((a, b) => new Date(a.properties.Date) - new Date(b.properties.Date));
     htmlContent = '<h3>Multiple Events at this Location:</h3><div style="max-height: 200px; overflow-y: auto;"><ul>';
     currentFeatures.forEach(feature => {
-      htmlContent += '<li><strong>' + feature.properties[config.popupInfo] + '</strong><br><a href="' + feature.properties[config.popupInfo2] + '" target="_blank">Click for Details</a></li>';
+      if (feature.properties[config.popupInfo2]) {
+        htmlContent += '<li><strong><a href="' + feature.properties[config.popupInfo2] + '" target="_blank">' + feature.properties[config.popupInfo] + '</a></strong><br>' + feature.properties.Date + '</li>';
+      } else {
+        htmlContent += '<li><strong>' + feature.properties[config.popupInfo] + '</strong><br>' + feature.properties.Date + '</li>';
+      }
     });
     htmlContent += '</ul></div>';
   }

@@ -17,18 +17,18 @@ const config = {
   filters: [
     {
       type: 'date-slider',
-      title: 'Filter Events by Date Range: ',
+      title: 'Filter Events by Date Range:',
       columnHeader: 'Date',
     },
     {
       type: 'checkbox',
-      title: 'Only show Opens',
+      title: 'Only show Opens:',
       columnHeader: 'Event_Name',
       listItems: ['Opens'],
     },
     {
       type: 'checkbox',
-      title: 'Include Past Events',
+      title: 'Include Past Events:',
       columnHeader: 'Include_Past',
       listItems: ['Yes'],
     }
