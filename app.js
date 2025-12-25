@@ -43,11 +43,13 @@ function createPopup(currentFeatures) {
     const feature = currentFeatures[0];
     htmlContent = '<h3>' + feature.properties[config.popupInfo] + '</h3><a href="' + feature.properties[config.popupInfo2] + '" target="_blank">Click for Details</a>';
   } else {
-    htmlContent = '<h3>Multiple Events at this Location:</h3><ul>';
+    // Sort events by date
+    currentFeatures.sort((a, b) => new Date(a.properties.Date) - new Date(b.properties.Date));
+    htmlContent = '<h3>Multiple Events at this Location:</h3><div style="max-height: 200px; overflow-y: auto;"><ul>';
     currentFeatures.forEach(feature => {
       htmlContent += '<li><strong>' + feature.properties[config.popupInfo] + '</strong><br><a href="' + feature.properties[config.popupInfo2] + '" target="_blank">Click for Details</a></li>';
     });
-    htmlContent += '</ul>';
+    htmlContent += '</ul></div>';
   }
 
   new mapboxgl.Popup({ closeOnClick: true })
