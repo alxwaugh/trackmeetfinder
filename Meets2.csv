@@ -1,32 +1,32 @@
-Event_Name,Date,Venue,Postcode,Entry_Details,Licence_Number,In_or_Outdoor,Longitude,Latitude
-Novuna UK Athletics Indoor Championships,2026-02-28,Utilita Arena Birmingham,B1 2AA,,IND 26/037,Indoor,-1.9146553166666669,52.479318616666667
-Novuna UK Athletics Indoor Championships,2026-03-01,Utilita Arena Birmingham,B1 2AA,,IND 26/037,Indoor,-1.9146553166666669,52.479318616666667
+Event_Name,Date,Venue,Postcode,Entry_Details,Licence_Number,In_or_Outdoor,Longitude,Latitiude
+Novuna UK Athletics Indoor Championships,2026-02-28,Utilita Arena Birmingham,B1 2AA,,IND 26/037,Indoor,-1.914655,52.479319
+Novuna UK Athletics Indoor Championships,2026-03-01,Utilita Arena Birmingham,B1 2AA,,IND 26/037,Indoor,-1.914655,52.479319
 Birchfield Indoor Jump Competition,2026-02-26,Alexander Stadium High Performance Centre,B42 2BE,,IND 26/043,Indoor,-1.904153,52.531508
 Birchfield Indoor Jumps,2026-02-27,Birmingham High Performance Centre,B42 2BE,,IND 26/054,Indoor,-1.904153,52.531508
-Lewes Winter Vault Series,2026-02-23,Ifford Farm Indoor Pole Vault Facility,BN7 3EU,,IND 26/052,Indoor,0.0001499,50.84649
-Lewes Winter Vault Series,2026-02-24,Ifford Farm Indoor Pole Vault Facility,BN7 3EU,,IND 26/052,Indoor,0.0001499,50.84649
-Lewes Winter Vault Series,2026-02-25,Ifford Farm Indoor Pole Vault Facility,BN7 3EU,,IND 26/052,Indoor,0.0001499,50.84649
+Lewes Winter Vault Series,2026-02-23,Ifford Farm Indoor Pole Vault Facility,BN7 3EU,,IND 26/052,Indoor,0.00015,50.84649
+Lewes Winter Vault Series,2026-02-24,Ifford Farm Indoor Pole Vault Facility,BN7 3EU,,IND 26/052,Indoor,0.00015,50.84649
+Lewes Winter Vault Series,2026-02-25,Ifford Farm Indoor Pole Vault Facility,BN7 3EU,,IND 26/052,Indoor,0.00015,50.84649
 Newham & Essex Beagles Indoor 60m Open Sprint Series,2026-01-20,Terence Macmillan Newham Indoor Athletics Centre,E13 8SD,https://entry4sports.com/,IND 26/049,Indoor,0.032439,51.518258
 Newham & Essex Beagles Indoor 60m Open Sprint Series,2026-01-30,Terence Macmillan Newham Indoor Athletics Centre,E13 8SD,https://entry4sports.com/,IND 26/049,Indoor,0.032439,51.518258
 Newham & Essex Beagles Indoor 60m Open Sprint Series,2026-02-04,Terence Macmillan Newham Indoor Athletics Centre,E13 8SD,https://entry4sports.com/,IND 26/049,Indoor,0.032439,51.518258
-Humber County Championships,2026-03-19,Costello Stadium Indoor Facilities,HU4 6XQ,,IND 26/028,Indoor,-0.4099999,53.73744
-Humber County Championships,2026-03-20,Costello Stadium Indoor Facilities,HU4 6XQ,,IND 26/029,Indoor,-0.4099999,53.73744
-Loughborough Indoor Open,2025-12-22,Loughborough University Indoors,LE11 3TU,,IND 26/022,Indoor,-1.24840425,52.75845375
-Loughborough Indoor Open,2025-12-23,Loughborough University Indoors,LE11 3TU,,IND 26/022,Indoor,-1.24840425,52.75845375
-Loughborough Indoor Open,2025-12-24,Loughborough University Indoors,LE11 3TU,,IND 26/030,Indoor,-1.24840425,52.75845375
-Loughborough Indoor Open,2025-12-25,Loughborough University Indoors,LE11 3TU,,IND 26/030,Indoor,-1.24840425,52.75845375
-Loughboroughh FLIGHT Night,2025-12-26,Loughborough University Indoors,LE11 3TU,,IND 26/046,Indoor,-1.24840425,52.75845375
-Loughborough Indoor Open,2025-12-27,Loughborough University Indoors,LE11 3TU,,IND 26/031,Indoor,-1.24840425,52.75845375
-Loughborough Indoor Open,2025-12-28,Loughborough University Indoors,LE11 3TU,,IND 26/031,Indoor,-1.24840425,52.75845375
-Air Loughborough,2025-12-29,Loughborough University Indoors,LE11 3TU,,IND 26/048,Indoor,-1.24840425,52.75845375
-Manchester Indoor Open Meeting,2026-02-17,Manchester Regional Arena Indoor Track,M11 3FF,,IND 26/004,Indoor,-2.2025063,53.4834406
-Manchester Indoor Open Meeting,2026-02-18,Manchester Regional Arena Indoor Track,M11 3FF,,IND 26/004,Indoor,-2.2025063,53.4834406
-Manchester Indoor Open Meeting,2026-02-19,Manchester Regional Arena Indoor Track,M11 3FF,,IND 26/004,Indoor,-2.2025063,53.4834406
-Manchester Indoor Open Meeting,2026-02-20,Manchester Regional Arena Indoor Track,M11 3FF,,IND 26/004,Indoor,-2.2025063,53.4834406
-Manchester Indoor Open Meeting,2026-02-21,Manchester Regional Arena Indoor Track,M11 3FF,,IND 26/004,Indoor,-2.2025063,53.4834406
-Manchester Indoor Open Meeting,2026-02-22,Manchester Regional Arena Indoor Track,M11 3FF,,IND 26/004,Indoor,-2.2025063,53.4834406
-The Manchester Cup,2026-02-16,Manchester Regional Arena Indoor Track,M11 3FF,IND 26/012,IND 26/012,Indoor,-2.2025063,53.4834406
-Bedford Christmas Indoor Invitational ,2025-12-21,Bedford Indoor Facility,MK41 9SB,,IND 26/053,Indoor,-0.44133146666666667,52.13385636666667
+Humber County Championships,2026-03-19,Costello Stadium Indoor Facilities,HU4 6XQ,,IND 26/028,Indoor,-0.41,53.73744
+Humber County Championships,2026-03-20,Costello Stadium Indoor Facilities,HU4 6XQ,,IND 26/029,Indoor,-0.41,53.73744
+Loughborough Indoor Open,2025-12-22,Loughborough University Indoors,LE11 3TU,,IND 26/022,Indoor,-1.248404,52.758454
+Loughborough Indoor Open,2025-12-23,Loughborough University Indoors,LE11 3TU,,IND 26/022,Indoor,-1.248404,52.758454
+Loughborough Indoor Open,2025-12-24,Loughborough University Indoors,LE11 3TU,,IND 26/030,Indoor,-1.248404,52.758454
+Loughborough Indoor Open,2025-12-25,Loughborough University Indoors,LE11 3TU,,IND 26/030,Indoor,-1.248404,52.758454
+Loughboroughh FLIGHT Night,2025-12-26,Loughborough University Indoors,LE11 3TU,,IND 26/046,Indoor,-1.248404,52.758454
+Loughborough Indoor Open,2025-12-27,Loughborough University Indoors,LE11 3TU,,IND 26/031,Indoor,-1.248404,52.758454
+Loughborough Indoor Open,2025-12-28,Loughborough University Indoors,LE11 3TU,,IND 26/031,Indoor,-1.248404,52.758454
+Air Loughborough,2025-12-29,Loughborough University Indoors,LE11 3TU,,IND 26/048,Indoor,-1.248404,52.758454
+Manchester Indoor Open Meeting,2026-02-17,Manchester Regional Arena Indoor Track,M11 3FF,,IND 26/004,Indoor,-2.202506,53.483441
+Manchester Indoor Open Meeting,2026-02-18,Manchester Regional Arena Indoor Track,M11 3FF,,IND 26/004,Indoor,-2.202506,53.483441
+Manchester Indoor Open Meeting,2026-02-19,Manchester Regional Arena Indoor Track,M11 3FF,,IND 26/004,Indoor,-2.202506,53.483441
+Manchester Indoor Open Meeting,2026-02-20,Manchester Regional Arena Indoor Track,M11 3FF,,IND 26/004,Indoor,-2.202506,53.483441
+Manchester Indoor Open Meeting,2026-02-21,Manchester Regional Arena Indoor Track,M11 3FF,,IND 26/004,Indoor,-2.202506,53.483441
+Manchester Indoor Open Meeting,2026-02-22,Manchester Regional Arena Indoor Track,M11 3FF,,IND 26/004,Indoor,-2.202506,53.483441
+The Manchester Cup,2026-02-16,Manchester Regional Arena Indoor Track,M11 3FF,IND 26/012,IND 26/012,Indoor,-2.202506,53.483441
+Bedford Christmas Indoor Invitational ,2025-12-21,Bedford Indoor Facility,MK41 9SB,,IND 26/053,Indoor,-0.441331,52.133856
 Lee Valley Minithon,2025-12-31,Lee Valley Indoor,N9 0AR,,IND 26/019,Indoor,-0.037238,51.633192
 Vault London Development - Hosted by Woodford Green & Essex Ladies AC,2026-01-01,Lee Valley Indoor,N9 0AR,,IND 26/021,Indoor,-0.037238,51.633192
 Lee Valley Minithon,2026-01-09,Lee Valley Indoor,N9 0AR,,IND 26/019,Indoor,-0.037238,51.633192
@@ -49,10 +49,10 @@ SEAA Indoor U20/Senior Track & Field Championships ,2026-01-26,Lee Valley Indoor
 SEAA Indoor U20/Senior Track & Field Championships ,2026-01-27,Lee Valley Indoor,N9 0AR,https://seaa.org.uk/index.php/results/track-and-field,IND 26/045,Indoor,-0.037238,51.633192
 BMC Indoor Races,2026-01-31,Lee Valley Indoor,N9 0AR,https://www.britishmilersclub.com/,IND 26/050,Indoor,-0.037238,51.633192
 London Universities & Colleges Association Indoor Championships ,2026-01-02,Lee Valley Indoor,N9 0AR,https://www.london-athletics.com/competitions/indoor/,IND 26/035,Indoor,-0.037238,51.633192
-Gateshead Harriers Indoor Series,2026-02-12,Gateshead Academy for Sport Indoor,NE10 0EF,,IND 26/036,Indoor,-1.5812535,54.96086595
-Gateshead Harriers Indoor Series,2026-02-13,Gateshead Academy for Sport Indoor,NE10 0EF,,IND 26/036,Indoor,-1.5812535,54.96086595
-Gateshead Harriers Indoor Series,2026-02-14,Gateshead Academy for Sport Indoor,NE10 0EF,,IND 26/036,Indoor,-1.5812535,54.96086595
-Gateshead Harriers Indoor Series,2026-02-15,Gateshead Academy for Sport Indoor,NE10 0EF,,IND 26/036,Indoor,-1.5812535,54.96086595
+Gateshead Harriers Indoor Series,2026-02-12,Gateshead Academy for Sport Indoor,NE10 0EF,,IND 26/036,Indoor,-1.581254,54.960866
+Gateshead Harriers Indoor Series,2026-02-13,Gateshead Academy for Sport Indoor,NE10 0EF,,IND 26/036,Indoor,-1.581254,54.960866
+Gateshead Harriers Indoor Series,2026-02-14,Gateshead Academy for Sport Indoor,NE10 0EF,,IND 26/036,Indoor,-1.581254,54.960866
+Gateshead Harriers Indoor Series,2026-02-15,Gateshead Academy for Sport Indoor,NE10 0EF,,IND 26/036,Indoor,-1.581254,54.960866
 Shaftesbury Barnet Harriers Indoor Jumps Open,2026-02-02,Stonex Indoor,NW4 1RL,https://data.opentrack.run/en-gb/x/2026/GBR/sbh-indoor-jumps-1/,IND 26/011,Indoor,-0.226334,51.603876
 Shaftesbury Barnet Harriers Indoor Jumps Open,2026-02-11,Stonex Indoor,NW4 1RL,https://data.opentrack.run/en-gb/x/2026/GBR/sbh-indoor-jumps-1/,IND 26/011,Indoor,-0.226334,51.603876
 Northern Athletics December Indoor Open,2026-03-26,English Institute of Sport,S9 5DA,,IND 26/002,Indoor,-1.42085,53.39716
@@ -92,37 +92,37 @@ Running2Time Brunel Indoor Open Series,2026-01-23,Brunel University Indoor,UB8 3
 Running2Time Brunel Indoor Open Series,2026-01-28,Brunel University Indoor,UB8 3PH,https://meets.rosterathletics.com/public/competitions?nextUrl=Lw%3D%3D&filter=eyJ0ZXh0IjoiQnJ1bmVsIiwiY291bnRyeUNvZGUiOiJaMDQiLCJyZWciOiJvcGVuIn0%3D,IND 26/024,Indoor,-0.472856,51.532838
 Running2Time Brunel Indoor Open Series,2026-02-03,Brunel University Indoor,UB8 3PH,https://meets.rosterathletics.com/public/competitions?nextUrl=Lw%3D%3D&filter=eyJ0ZXh0IjoiQnJ1bmVsIiwiY291bnRyeUNvZGUiOiJaMDQiLCJyZWciOiJvcGVuIn0%3D,IND 26/024,Indoor,-0.472856,51.532838
 Running2Time Brunel Indoor Open Series,2026-02-08,Brunel University Indoor,UB8 3PH,https://meets.rosterathletics.com/public/competitions?nextUrl=Lw%3D%3D&filter=eyJ0ZXh0IjoiQnJ1bmVsIiwiY291bnRyeUNvZGUiOiJaMDQiLCJyZWciOiJvcGVuIn0%3D,IND 26/024,Indoor,-0.472856,51.532838
-Wakefield Harriers Winter Series ,2026-03-09,Thornes Park Indoor Athletics Facility,WF2 8TY,http://www.wakefield-harriers.co.uk/,IND 26/041,Indoor,-1.5156165300000002,53.67716148
-Wakefield Harriers Winter Series ,2026-03-18,Thornes Park Indoor Athletics Facility,WF2 8TY,http://www.wakefield-harriers.co.uk/,IND 26/041,Indoor,-1.5156165300000002,53.67716148
-Wakefield Harriers Winter Series ,2026-03-22,Thornes Park Indoor Athletics Facility,WF2 8TY,http://www.wakefield-harriers.co.uk/,IND 26/041,Indoor,-1.5156165300000002,53.67716148
-Novuna UK Athletics Indoor Championships,2026-02-28,Utilita Arena Birmingham,B1 2AA,,IND 26/037,Outdoor,-1.9146553166666669,52.479318616666667
-Novuna UK Athletics Indoor Championships,2026-03-01,Utilita Arena Birmingham,B1 2AA,,IND 26/037,Outdoor,-1.9146553166666669,52.479318616666667
+Wakefield Harriers Winter Series ,2026-03-09,Thornes Park Indoor Athletics Facility,WF2 8TY,http://www.wakefield-harriers.co.uk/,IND 26/041,Indoor,-1.515617,53.677161
+Wakefield Harriers Winter Series ,2026-03-18,Thornes Park Indoor Athletics Facility,WF2 8TY,http://www.wakefield-harriers.co.uk/,IND 26/041,Indoor,-1.515617,53.677161
+Wakefield Harriers Winter Series ,2026-03-22,Thornes Park Indoor Athletics Facility,WF2 8TY,http://www.wakefield-harriers.co.uk/,IND 26/041,Indoor,-1.515617,53.677161
+Novuna UK Athletics Indoor Championships,2026-02-28,Utilita Arena Birmingham,B1 2AA,,IND 26/037,Outdoor,-1.914655,52.479319
+Novuna UK Athletics Indoor Championships,2026-03-01,Utilita Arena Birmingham,B1 2AA,,IND 26/037,Outdoor,-1.914655,52.479319
 Birchfield Indoor Jump Competition,2026-02-26,Alexander Stadium High Performance Centre,B42 2BE,,IND 26/043,Outdoor,-1.904153,52.531508
 Birchfield Indoor Jumps,2026-02-27,Birmingham High Performance Centre,B42 2BE,,IND 26/054,Outdoor,-1.904153,52.531508
-Lewes Winter Vault Series,2026-02-23,Ifford Farm Indoor Pole Vault Facility,BN7 3EU,,IND 26/052,Outdoor,0.0001499,50.84649
-Lewes Winter Vault Series,2026-02-24,Ifford Farm Indoor Pole Vault Facility,BN7 3EU,,IND 26/052,Outdoor,0.0001499,50.84649
-Lewes Winter Vault Series,2026-02-25,Ifford Farm Indoor Pole Vault Facility,BN7 3EU,,IND 26/052,Outdoor,0.0001499,50.84649
+Lewes Winter Vault Series,2026-02-23,Ifford Farm Indoor Pole Vault Facility,BN7 3EU,,IND 26/052,Outdoor,0.00015,50.84649
+Lewes Winter Vault Series,2026-02-24,Ifford Farm Indoor Pole Vault Facility,BN7 3EU,,IND 26/052,Outdoor,0.00015,50.84649
+Lewes Winter Vault Series,2026-02-25,Ifford Farm Indoor Pole Vault Facility,BN7 3EU,,IND 26/052,Outdoor,0.00015,50.84649
 Newham & Essex Beagles Indoor 60m Open Sprint Series,2026-01-20,Terence Macmillan Newham Indoor Athletics Centre,E13 8SD,https://entry4sports.com/,IND 26/049,Outdoor,0.032439,51.518258
 Newham & Essex Beagles Indoor 60m Open Sprint Series,2026-01-30,Terence Macmillan Newham Indoor Athletics Centre,E13 8SD,https://entry4sports.com/,IND 26/049,Outdoor,0.032439,51.518258
 Newham & Essex Beagles Indoor 60m Open Sprint Series,2026-02-04,Terence Macmillan Newham Indoor Athletics Centre,E13 8SD,https://entry4sports.com/,IND 26/049,Outdoor,0.032439,51.518258
-Humber County Championships,2026-03-19,Costello Stadium Indoor Facilities,HU4 6XQ,,IND 26/028,Outdoor,-0.4099999,53.73744
-Humber County Championships,2026-03-20,Costello Stadium Indoor Facilities,HU4 6XQ,,IND 26/029,Outdoor,-0.4099999,53.73744
-Loughborough Indoor Open,2025-12-22,Loughborough University Indoors,LE11 3TU,,IND 26/022,Outdoor,-1.24840425,52.75845375
-Loughborough Indoor Open,2025-12-23,Loughborough University Indoors,LE11 3TU,,IND 26/022,Outdoor,-1.24840425,52.75845375
-Loughborough Indoor Open,2025-12-24,Loughborough University Indoors,LE11 3TU,,IND 26/030,Outdoor,-1.24840425,52.75845375
-Loughborough Indoor Open,2025-12-25,Loughborough University Indoors,LE11 3TU,,IND 26/030,Outdoor,-1.24840425,52.75845375
-Loughboroughh FLIGHT Night,2025-12-26,Loughborough University Indoors,LE11 3TU,,IND 26/046,Outdoor,-1.24840425,52.75845375
-Loughborough Indoor Open,2025-12-27,Loughborough University Indoors,LE11 3TU,,IND 26/031,Outdoor,-1.24840425,52.75845375
-Loughborough Indoor Open,2025-12-28,Loughborough University Indoors,LE11 3TU,,IND 26/031,Outdoor,-1.24840425,52.75845375
-Air Loughborough,2025-12-29,Loughborough University Indoors,LE11 3TU,,IND 26/048,Outdoor,-1.24840425,52.75845375
-Manchester Indoor Open Meeting,2026-02-17,Manchester Regional Arena Indoor Track,M11 3FF,,IND 26/004,Outdoor,-2.2025063,53.4834406
-Manchester Indoor Open Meeting,2026-02-18,Manchester Regional Arena Indoor Track,M11 3FF,,IND 26/004,Outdoor,-2.2025063,53.4834406
-Manchester Indoor Open Meeting,2026-02-19,Manchester Regional Arena Indoor Track,M11 3FF,,IND 26/004,Outdoor,-2.2025063,53.4834406
-Manchester Indoor Open Meeting,2026-02-20,Manchester Regional Arena Indoor Track,M11 3FF,,IND 26/004,Outdoor,-2.2025063,53.4834406
-Manchester Indoor Open Meeting,2026-02-21,Manchester Regional Arena Indoor Track,M11 3FF,,IND 26/004,Outdoor,-2.2025063,53.4834406
-Manchester Indoor Open Meeting,2026-02-22,Manchester Regional Arena Indoor Track,M11 3FF,,IND 26/004,Outdoor,-2.2025063,53.4834406
-The Manchester Cup,2026-02-16,Manchester Regional Arena Indoor Track,M11 3FF,IND 26/012,IND 26/012,Outdoor,-2.2025063,53.4834406
-Bedford Christmas Indoor Invitational ,2025-12-21,Bedford Indoor Facility,MK41 9SB,,IND 26/053,Outdoor,-0.44133146666666667,52.13385636666667
+Humber County Championships,2026-03-19,Costello Stadium Indoor Facilities,HU4 6XQ,,IND 26/028,Outdoor,-0.41,53.73744
+Humber County Championships,2026-03-20,Costello Stadium Indoor Facilities,HU4 6XQ,,IND 26/029,Outdoor,-0.41,53.73744
+Loughborough Indoor Open,2025-12-22,Loughborough University Indoors,LE11 3TU,,IND 26/022,Outdoor,-1.248404,52.758454
+Loughborough Indoor Open,2025-12-23,Loughborough University Indoors,LE11 3TU,,IND 26/022,Outdoor,-1.248404,52.758454
+Loughborough Indoor Open,2025-12-24,Loughborough University Indoors,LE11 3TU,,IND 26/030,Outdoor,-1.248404,52.758454
+Loughborough Indoor Open,2025-12-25,Loughborough University Indoors,LE11 3TU,,IND 26/030,Outdoor,-1.248404,52.758454
+Loughboroughh FLIGHT Night,2025-12-26,Loughborough University Indoors,LE11 3TU,,IND 26/046,Outdoor,-1.248404,52.758454
+Loughborough Indoor Open,2025-12-27,Loughborough University Indoors,LE11 3TU,,IND 26/031,Outdoor,-1.248404,52.758454
+Loughborough Indoor Open,2025-12-28,Loughborough University Indoors,LE11 3TU,,IND 26/031,Outdoor,-1.248404,52.758454
+Air Loughborough,2025-12-29,Loughborough University Indoors,LE11 3TU,,IND 26/048,Outdoor,-1.248404,52.758454
+Manchester Indoor Open Meeting,2026-02-17,Manchester Regional Arena Indoor Track,M11 3FF,,IND 26/004,Outdoor,-2.202506,53.483441
+Manchester Indoor Open Meeting,2026-02-18,Manchester Regional Arena Indoor Track,M11 3FF,,IND 26/004,Outdoor,-2.202506,53.483441
+Manchester Indoor Open Meeting,2026-02-19,Manchester Regional Arena Indoor Track,M11 3FF,,IND 26/004,Outdoor,-2.202506,53.483441
+Manchester Indoor Open Meeting,2026-02-20,Manchester Regional Arena Indoor Track,M11 3FF,,IND 26/004,Outdoor,-2.202506,53.483441
+Manchester Indoor Open Meeting,2026-02-21,Manchester Regional Arena Indoor Track,M11 3FF,,IND 26/004,Outdoor,-2.202506,53.483441
+Manchester Indoor Open Meeting,2026-02-22,Manchester Regional Arena Indoor Track,M11 3FF,,IND 26/004,Outdoor,-2.202506,53.483441
+The Manchester Cup,2026-02-16,Manchester Regional Arena Indoor Track,M11 3FF,IND 26/012,IND 26/012,Outdoor,-2.202506,53.483441
+Bedford Christmas Indoor Invitational ,2025-12-21,Bedford Indoor Facility,MK41 9SB,,IND 26/053,Outdoor,-0.441331,52.133856
 Lee Valley Minithon,2025-12-31,Lee Valley Indoor,N9 0AR,,IND 26/019,Outdoor,-0.037238,51.633192
 Vault London Development - Hosted by Woodford Green & Essex Ladies AC,2026-01-01,Lee Valley Indoor,N9 0AR,,IND 26/021,Outdoor,-0.037238,51.633192
 Lee Valley Minithon,2026-01-09,Lee Valley Indoor,N9 0AR,,IND 26/019,Outdoor,-0.037238,51.633192
@@ -145,10 +145,10 @@ SEAA Indoor U20/Senior Track & Field Championships ,2026-01-26,Lee Valley Indoor
 SEAA Indoor U20/Senior Track & Field Championships ,2026-01-27,Lee Valley Indoor,N9 0AR,https://seaa.org.uk/index.php/results/track-and-field,IND 26/045,Outdoor,-0.037238,51.633192
 BMC Indoor Races,2026-01-31,Lee Valley Indoor,N9 0AR,https://www.britishmilersclub.com/,IND 26/050,Outdoor,-0.037238,51.633192
 London Universities & Colleges Association Indoor Championships ,2026-01-02,Lee Valley Indoor,N9 0AR,https://www.london-athletics.com/competitions/indoor/,IND 26/035,Outdoor,-0.037238,51.633192
-Gateshead Harriers Indoor Series,2026-02-12,Gateshead Academy for Sport Indoor,NE10 0EF,,IND 26/036,Outdoor,-1.5812535,54.96086595
-Gateshead Harriers Indoor Series,2026-02-13,Gateshead Academy for Sport Indoor,NE10 0EF,,IND 26/036,Outdoor,-1.5812535,54.96086595
-Gateshead Harriers Indoor Series,2026-02-14,Gateshead Academy for Sport Indoor,NE10 0EF,,IND 26/036,Outdoor,-1.5812535,54.96086595
-Gateshead Harriers Indoor Series,2026-02-15,Gateshead Academy for Sport Indoor,NE10 0EF,,IND 26/036,Outdoor,-1.5812535,54.96086595
+Gateshead Harriers Indoor Series,2026-02-12,Gateshead Academy for Sport Indoor,NE10 0EF,,IND 26/036,Outdoor,-1.581254,54.960866
+Gateshead Harriers Indoor Series,2026-02-13,Gateshead Academy for Sport Indoor,NE10 0EF,,IND 26/036,Outdoor,-1.581254,54.960866
+Gateshead Harriers Indoor Series,2026-02-14,Gateshead Academy for Sport Indoor,NE10 0EF,,IND 26/036,Outdoor,-1.581254,54.960866
+Gateshead Harriers Indoor Series,2026-02-15,Gateshead Academy for Sport Indoor,NE10 0EF,,IND 26/036,Outdoor,-1.581254,54.960866
 Shaftesbury Barnet Harriers Indoor Jumps Open,2026-02-02,Stonex Indoor,NW4 1RL,https://data.opentrack.run/en-gb/x/2026/GBR/sbh-indoor-jumps-1/,IND 26/011,Outdoor,-0.226334,51.603876
 Shaftesbury Barnet Harriers Indoor Jumps Open,2026-02-11,Stonex Indoor,NW4 1RL,https://data.opentrack.run/en-gb/x/2026/GBR/sbh-indoor-jumps-1/,IND 26/011,Outdoor,-0.226334,51.603876
 Northern Athletics December Indoor Open,2026-03-26,English Institute of Sport,S9 5DA,,IND 26/002,Outdoor,-1.42085,53.39716
@@ -188,6 +188,6 @@ Running2Time Brunel Indoor Open Series,2026-01-23,Brunel University Indoor,UB8 3
 Running2Time Brunel Indoor Open Series,2026-01-28,Brunel University Indoor,UB8 3PH,https://meets.rosterathletics.com/public/competitions?nextUrl=Lw%3D%3D&filter=eyJ0ZXh0IjoiQnJ1bmVsIiwiY291bnRyeUNvZGUiOiJaMDQiLCJyZWciOiJvcGVuIn0%3D,IND 26/024,Outdoor,-0.472856,51.532838
 Running2Time Brunel Indoor Open Series,2026-02-03,Brunel University Indoor,UB8 3PH,https://meets.rosterathletics.com/public/competitions?nextUrl=Lw%3D%3D&filter=eyJ0ZXh0IjoiQnJ1bmVsIiwiY291bnRyeUNvZGUiOiJaMDQiLCJyZWciOiJvcGVuIn0%3D,IND 26/024,Outdoor,-0.472856,51.532838
 Running2Time Brunel Indoor Open Series,2026-02-08,Brunel University Indoor,UB8 3PH,https://meets.rosterathletics.com/public/competitions?nextUrl=Lw%3D%3D&filter=eyJ0ZXh0IjoiQnJ1bmVsIiwiY291bnRyeUNvZGUiOiJaMDQiLCJyZWciOiJvcGVuIn0%3D,IND 26/024,Outdoor,-0.472856,51.532838
-Wakefield Harriers Winter Series ,2026-03-09,Thornes Park Indoor Athletics Facility,WF2 8TY,http://www.wakefield-harriers.co.uk/,IND 26/041,Outdoor,-1.5156165300000002,53.67716148
-Wakefield Harriers Winter Series ,2026-03-18,Thornes Park Indoor Athletics Facility,WF2 8TY,http://www.wakefield-harriers.co.uk/,IND 26/041,Outdoor,-1.5156165300000002,53.67716148
-Wakefield Harriers Winter Series ,2026-03-22,Thornes Park Indoor Athletics Facility,WF2 8TY,http://www.wakefield-harriers.co.uk/,IND 26/041,Outdoor,-1.5156165300000002,53.67716148
+Wakefield Harriers Winter Series ,2026-03-09,Thornes Park Indoor Athletics Facility,WF2 8TY,http://www.wakefield-harriers.co.uk/,IND 26/041,Outdoor,-1.515617,53.677161
+Wakefield Harriers Winter Series ,2026-03-18,Thornes Park Indoor Athletics Facility,WF2 8TY,http://www.wakefield-harriers.co.uk/,IND 26/041,Outdoor,-1.515617,53.677161
+Wakefield Harriers Winter Series ,2026-03-22,Thornes Park Indoor Athletics Facility,WF2 8TY,http://www.wakefield-harriers.co.uk/,IND 26/041,Outdoor,-1.515617,53.677161
