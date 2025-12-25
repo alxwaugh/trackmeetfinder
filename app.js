@@ -195,6 +195,43 @@ function buildCheckbox(title, listItems) {
   filtersDiv.appendChild(mainDiv);
 }
 
+// Build date slider function
+// title - the name or 'category' of the selection e.g. 'Date Range: '
+// columnHeader - the column to filter on
+
+function buildDateSlider(title, columnHeader) {
+  const filtersDiv = document.getElementById('filters');
+  const mainDiv = document.createElement('div');
+  const filterTitle = document.createElement('h3');
+  filterTitle.innerText = title;
+  filterTitle.classList.add('py12', 'txt-bold');
+  mainDiv.appendChild(filterTitle);
+
+  const startLabel = document.createElement('label');
+  startLabel.innerText = 'Start Date: ';
+  startLabel.classList.add('pr6');
+  const startInput = document.createElement('input');
+  startInput.type = 'date';
+  startInput.id = 'startDate';
+  startInput.classList.add('filter-option');
+
+  const endLabel = document.createElement('label');
+  endLabel.innerText = 'End Date: ';
+  endLabel.classList.add('pr6');
+  const endInput = document.createElement('input');
+  endInput.type = 'date';
+  endInput.id = 'endDate';
+  endInput.classList.add('filter-option');
+
+  mainDiv.appendChild(startLabel);
+  mainDiv.appendChild(startInput);
+  mainDiv.appendChild(document.createElement('br'));
+  mainDiv.appendChild(endLabel);
+  mainDiv.appendChild(endInput);
+
+  filtersDiv.appendChild(mainDiv);
+}
+
 const selectFilters = [];
 const checkboxFilters = [];
 
@@ -239,6 +276,15 @@ function applyFilters() {
       return d >= today;
     };
     let includePast = false;
+    let startDate = null;
+    let endDate = null;
+
+    const passesDateFilter = (feature) => {
+      const featureDate = new Date(feature.properties.Date);
+      if (startDate && featureDate < new Date(startDate)) return false;
+      if (endDate && featureDate > new Date(endDate)) return false;
+      return true;
+    };
 
     filterOption.forEach((filter) => {
       if (filter.type === 'checkbox' && filter.checked && filter.value === 'yes') {
@@ -264,11 +310,17 @@ function applyFilters() {
           });
         });
       }
+      if (filter.type === 'date' && filter.id === 'startDate' && filter.value) {
+        startDate = filter.value;
+      }
+      if (filter.type === 'date' && filter.id === 'endDate' && filter.value) {
+        endDate = filter.value;
+      }
     });
 
     if (geojCheckboxFilters.length === 0 && geojSelectFilters.length === 0) {
       geojsonData.features.forEach((feature) => {
-        if (includePast || isFuture(feature.properties.Date)) {
+        if ((includePast || isFuture(feature.properties.Date)) && passesDateFilter(feature)) {
           filteredGeojson.features.push(feature);
         }
       });
@@ -276,7 +328,7 @@ function applyFilters() {
       geojCheckboxFilters.forEach((filter) => {
         console.info(filter)//
         geojsonData.features.forEach((feature) => {
-          if (feature.properties[filter[0]].includes(filter[1]) && (includePast || isFuture(feature.properties.Date))) {
+          if (feature.properties[filter[0]].includes(filter[1]) && (includePast || isFuture(feature.properties.Date)) && passesDateFilter(feature)) {
             if (
               filteredGeojson.features.filter(
                 (f) => f.properties.id === feature.properties.id,
@@ -326,6 +378,7 @@ function applyFilters() {
         if (
           selected === true &&
           (includePast || isFuture(feature.properties.Date)) &&
+          passesDateFilter(feature) &&
           filteredGeojson.features.filter(
             (f) => f.properties.id === feature.properties.id,
           ).length === 0
@@ -346,6 +399,8 @@ function filters(filterSettings) {
       buildCheckbox(filter.title, filter.listItems);
     } else if (filter.type === 'dropdown') {
       buildDropDownList(filter.title, filter.listItems);
+    } else if (filter.type === 'date-slider') {
+      buildDateSlider(filter.title, filter.columnHeader);
     }
   });
 }
@@ -364,6 +419,11 @@ function removeFilters() {
 
   selectOption.forEach((option) => {
     option.selectedIndex = 0;
+  });
+
+  const dateInputs = document.querySelectorAll('input[type="date"]');
+  dateInputs.forEach(input => {
+    input.value = '';
   });
 
   map.getSource('locationData').setData(geojsonData);
@@ -463,6 +523,22 @@ map.on('load', () => {
         });
 
         geojsonData = data;
+
+        // Set min and max dates for date slider
+        const dates = geojsonData.features.map(f => new Date(f.properties.Date));
+        const minDate = new Date(Math.min(...dates));
+        const maxDate = new Date(Math.max(...dates));
+        const startInput = document.getElementById('startDate');
+        const endInput = document.getElementById('endDate');
+        if (startInput) {
+          startInput.min = minDate.toISOString().split('T')[0];
+          startInput.max = maxDate.toISOString().split('T')[0];
+        }
+        if (endInput) {
+          endInput.min = minDate.toISOString().split('T')[0];
+          endInput.max = maxDate.toISOString().split('T')[0];
+        }
+
         // Add the the layer to the map
         map.addLayer({
           id: 'locationData',
@@ -501,20 +577,6 @@ map.on('load', () => {
     });
     buildLocationList(geojsonData);
   }
-});
-
-// Modal - popup for filtering results
-const filterResults = document.getElementById('filterResults');
-const exitButton = document.getElementById('exitButton');
-const modal = document.getElementById('modal');
-
-filterResults.addEventListener('click', () => {
-  modal.classList.remove('hide-visually');
-  modal.classList.add('z5');
-});
-
-exitButton.addEventListener('click', () => {
-  modal.classList.add('hide-visually');
 });
 
 const title = document.getElementById('title');
