@@ -16,24 +16,15 @@ const config = {
   popupInfo2: ['Entry_Details'],
   filters: [
     {
-      type: 'dropdown',
-      title: 'Meet Type: ',
-      columnHeader: 'Event_Name',
-      listItems: [
-        'Open'//,
-        //'League'
-      ],
-    },
-    {
       type: 'date-slider',
       title: 'Filter Events by Date Range: ',
       columnHeader: 'Date',
-    }/* ,
+    },
     {
       type: 'checkbox',
       title: 'Include Past Events',
       columnHeader: 'Include_Past',
       listItems: ['yes'],
-    } */
+    }
   ],
 };

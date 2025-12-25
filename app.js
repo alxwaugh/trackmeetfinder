@@ -25,15 +25,34 @@ function flyToLocation(currentFeature) {
   });
 }
 
-function createPopup(currentFeature) {
+function createPopup(currentFeatures) {
   const popups = document.getElementsByClassName('mapboxgl-popup');
   /** Check if there is already a popup on the map and if so, remove it */
   if (popups[0]) popups[0].remove();
+
+  // Ensure currentFeatures is an array
+  if (!Array.isArray(currentFeatures)) {
+    currentFeatures = [currentFeatures];
+  }
+
+  // Use the coordinates of the first feature
+  const coordinates = currentFeatures[0].geometry.coordinates;
+
+  let htmlContent = '';
+  if (currentFeatures.length === 1) {
+    const feature = currentFeatures[0];
+    htmlContent = '<h3>' + feature.properties[config.popupInfo] + '</h3><a href="' + feature.properties[config.popupInfo2] + '" target="_blank">Click for Details</a>';
+  } else {
+    htmlContent = '<h3>Multiple Events at this Location:</h3><ul>';
+    currentFeatures.forEach(feature => {
+      htmlContent += '<li><strong>' + feature.properties[config.popupInfo] + '</strong><br><a href="' + feature.properties[config.popupInfo2] + '" target="_blank">Click for Details</a></li>';
+    });
+    htmlContent += '</ul>';
+  }
+
   new mapboxgl.Popup({ closeOnClick: true })
-    .setLngLat(currentFeature.geometry.coordinates)
-    //.setHTML('<h3>' + currentFeature.properties[config.popupInfo] + '</h3>')
-    //.setHTML('<h3>' + currentFeature.properties[config.popupInfo] + '</h3><h2>' + currentFeature.properties[config.popupInfo2] + '</h2>')
-    .setHTML('<h3>' + currentFeature.properties[config.popupInfo] + '</h3><a href="' + currentFeature.properties[config.popupInfo2] + '" target="_blank">Click for Details</a>')
+    .setLngLat(coordinates)
+    .setHTML(htmlContent)
     .addTo(map);
 }
 
@@ -72,7 +91,7 @@ function buildLocationList(locationData) {
     link.addEventListener('click', function () {
       const clickedListing = location.geometry.coordinates;
       flyToLocation(clickedListing);
-      createPopup(location);
+      createPopup([location]);
 
       const activeItem = document.getElementsByClassName('active');
       if (activeItem[0]) {
@@ -565,7 +584,7 @@ map.on('load', () => {
       const clickedPoint = features[0].geometry.coordinates;
       flyToLocation(clickedPoint);
       sortByDistance(clickedPoint);
-      createPopup(features[0]);
+      createPopup(features);
     });
 
     map.on('mouseenter', 'locationData', () => {
