@@ -429,7 +429,11 @@ function removeFilters() {
   const select = document.getElementsByTagName('select');
   const selectOption = [].slice.call(select);
   const checkboxOption = [].slice.call(input);
-  filteredGeojson.features = [];
+  const today = new Date();
+  filteredGeojson.features = geojsonData.features.filter(feature => {
+    const d = new Date(feature.properties.Date);
+    return d >= today;
+  });
   checkboxOption.forEach((checkbox) => {
     if (checkbox.type === 'checkbox' && checkbox.checked === true) {
       checkbox.checked = false;
@@ -445,8 +449,8 @@ function removeFilters() {
     input.value = '';
   });
 
-  map.getSource('locationData').setData(geojsonData);
-  buildLocationList(geojsonData);
+  map.getSource('locationData').setData(filteredGeojson);
+  buildLocationList(filteredGeojson);
 }
 
 function removeFiltersButton() {
@@ -543,8 +547,15 @@ map.on('load', () => {
 
         geojsonData = data;
 
+        // Filter to only future events by default
+        const today = new Date();
+        filteredGeojson.features = data.features.filter(feature => {
+          const d = new Date(feature.properties.Date);
+          return d >= today;
+        });
+
         // Set min and max dates for date slider
-        const dates = geojsonData.features.map(f => new Date(f.properties.Date));
+        const dates = filteredGeojson.features.map(f => new Date(f.properties.Date));
         const minDate = new Date(Math.min(...dates));
         const maxDate = new Date(Math.max(...dates));
         const startInput = document.getElementById('startDate');
@@ -564,7 +575,7 @@ map.on('load', () => {
           type: 'circle',
           source: {
             type: 'geojson',
-            data: geojsonData,
+            data: filteredGeojson,
           },
           paint: {
             'circle-radius': 5, // size of circles
@@ -594,7 +605,7 @@ map.on('load', () => {
     map.on('mouseleave', 'locationData', () => {
       map.getCanvas().style.cursor = '';
     });
-    buildLocationList(geojsonData);
+    buildLocationList(filteredGeojson);
   }
 });
 
