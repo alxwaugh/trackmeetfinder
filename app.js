@@ -347,7 +347,7 @@ function applyFilters() {
       geojCheckboxFilters.forEach((filter) => {
         console.info(filter)//
         geojsonData.features.forEach((feature) => {
-          if (feature.properties[filter[0]].includes(filter[1]) && (includePast || isFuture(feature.properties.Date)) && passesDateFilter(feature)) {
+          if (feature.properties[filter[0]].toLowerCase().includes(filter[1].toLowerCase()) && (includePast || isFuture(feature.properties.Date)) && passesDateFilter(feature)) {
             if (
               filteredGeojson.features.filter(
                 (f) => f.properties.id === feature.properties.id,
@@ -365,7 +365,7 @@ function applyFilters() {
           geojSelectFilters.forEach((filter) => {
             console.info(filter)//
             if (
-              feature.properties[filter[0]].indexOf(filter[1]) < 0 &&
+              feature.properties[filter[0]].toLowerCase().indexOf(filter[1].toLowerCase()) < 0 &&
               selected === true
             ) {
               selected = false;

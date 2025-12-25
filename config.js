@@ -22,9 +22,15 @@ const config = {
     },
     {
       type: 'checkbox',
+      title: 'Only show Opens',
+      columnHeader: 'Event_Name',
+      listItems: ['Opens'],
+    },
+    {
+      type: 'checkbox',
       title: 'Include Past Events',
       columnHeader: 'Include_Past',
-      listItems: ['yes'],
+      listItems: ['Yes'],
     }
   ],
 };
