@@ -33,7 +33,7 @@ const config = {
       type: 'checkbox',
       title: 'Only show Opens:',
       columnHeader: 'Event_Name',
-      listItems: ['Opens'],
+      listItems: ['Open'],
     },
     {
       type: 'checkbox',
