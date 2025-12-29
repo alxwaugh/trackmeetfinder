@@ -242,6 +242,7 @@ function buildDateSlider(title, columnHeader) {
   const startInput = document.createElement('input');
   startInput.type = 'date';
   startInput.id = 'startDate';
+  startInput.min = '2000-01-01';
   startInput.classList.add('filter-option');
 
   const endLabel = document.createElement('label');
@@ -250,6 +251,7 @@ function buildDateSlider(title, columnHeader) {
   const endInput = document.createElement('input');
   endInput.type = 'date';
   endInput.id = 'endDate';
+  endInput.min = '2000-01-01';
   endInput.classList.add('filter-option');
 
   mainDiv.appendChild(startLabel);
@@ -347,17 +349,17 @@ function applyFilters() {
       }
     });
 
+    let baseFeatures = geojsonData.features;
+    if (!includePast && !startDate && !endDate) {
+      baseFeatures = baseFeatures.filter(feature => isFuture(feature.properties.Date));
+    }
+
     if (geojCheckboxFilters.length === 0 && geojSelectFilters.length === 0) {
-      geojsonData.features.forEach((feature) => {
-        if ((includePast || isFuture(feature.properties.Date)) && passesDateFilter(feature)) {
-          filteredGeojson.features.push(feature);
-        }
-      });
+      filteredGeojson.features = baseFeatures;
     } else if (geojCheckboxFilters.length > 0) {
       geojCheckboxFilters.forEach((filter) => {
-        console.info(filter)//
-        geojsonData.features.forEach((feature) => {
-          if (feature.properties[filter[0]].toLowerCase().includes(filter[1].toLowerCase()) && (includePast || isFuture(feature.properties.Date)) && passesDateFilter(feature)) {
+        baseFeatures.forEach((feature) => {
+          if (feature.properties[filter[0]].toLowerCase().includes(filter[1].toLowerCase())) {
             if (
               filteredGeojson.features.filter(
                 (f) => f.properties.id === feature.properties.id,
@@ -373,7 +375,6 @@ function applyFilters() {
         filteredGeojson.features.forEach((feature) => {
           let selected = true;
           geojSelectFilters.forEach((filter) => {
-            console.info(filter)//
             if (
               feature.properties[filter[0]].toLowerCase().indexOf(filter[1].toLowerCase()) < 0 &&
               selected === true
@@ -394,7 +395,7 @@ function applyFilters() {
         });
       }
     } else {
-      geojsonData.features.forEach((feature) => {
+      baseFeatures.forEach((feature) => {
         let selected = true;
         geojSelectFilters.forEach((filter) => {
           if (
@@ -406,8 +407,6 @@ function applyFilters() {
         });
         if (
           selected === true &&
-          (includePast || isFuture(feature.properties.Date)) &&
-          passesDateFilter(feature) &&
           filteredGeojson.features.filter(
             (f) => f.properties.id === feature.properties.id,
           ).length === 0
@@ -415,6 +414,10 @@ function applyFilters() {
           filteredGeojson.features.push(feature);
         }
       });
+    }
+
+    if (startDate || endDate) {
+      filteredGeojson.features = filteredGeojson.features.filter(passesDateFilter);
     }
 
     map.getSource('locationData').setData(filteredGeojson);
@@ -565,7 +568,7 @@ map.on('load', () => {
         });
 
         // Set min and max dates for date slider
-        const dates = filteredGeojson.features.map(f => new Date(f.properties.Date));
+        const dates = geojsonData.features.map(f => new Date(f.properties.Date));
         const minDate = new Date(Math.min(...dates));
         const maxDate = new Date(Math.max(...dates));
         const startInput = document.getElementById('startDate');
