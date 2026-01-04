@@ -1,3 +1,11 @@
+  var closeBtn = document.getElementById('closeFilters');
+  if (closeBtn && filtersPanel) {
+    closeBtn.addEventListener('click', function (e) {
+      e.preventDefault();
+      filtersPanel.classList.remove('open');
+      if (toggleBtn) toggleBtn.textContent = 'Show Filters';
+    });
+  }
 // Collapsible filter panel for mobile
 document.addEventListener('DOMContentLoaded', function () {
   var toggleBtn = document.getElementById('toggleFilters');

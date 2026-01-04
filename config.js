@@ -35,11 +35,11 @@ const config = {
       columnHeader: 'Event_Name',
       listItems: ['Open'],
     },
-    {
-      type: 'checkbox',
-      title: 'Include Past Events:',
-      columnHeader: 'Include_Past',
-      listItems: ['Yes'],
-    }
+    // {
+    //   type: 'checkbox',
+    //   title: 'Include Past Events:',
+    //   columnHeader: 'Include_Past',
+    //   listItems: ['Yes'],
+    // }
   ],
 };

@@ -21,8 +21,10 @@ https://www.englandathletics.org/athletics-and-running/england-competitions/lice
 
 * ~~Clean up the badly geocoded events - like, why are there 2 in the Philipines??~~
 * Better filter options:
-  * Can we do filter by age categories?
-  * Can we do a date-range slider rather than the horrendous month checkbox list?
+  * ~~Can we do filter by age categories?~~
+  * ~~Can we do a date-range slider rather than the horrendous month checkbox list?~~
+  * Enable view of past events
+* Make it work on mobile
 * Automate the CSV cleanup (ETL)
   * Match events to set of master locations
   * Geocode missing locations via geoapify
