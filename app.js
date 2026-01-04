@@ -1,3 +1,27 @@
+// Collapsible filter panel for mobile
+document.addEventListener('DOMContentLoaded', function () {
+  var toggleBtn = document.getElementById('toggleFilters');
+  var filtersPanel = document.getElementById('filtersPanel');
+  if (toggleBtn && filtersPanel) {
+    toggleBtn.addEventListener('click', function () {
+      filtersPanel.classList.toggle('open');
+      if (filtersPanel.classList.contains('open')) {
+        toggleBtn.textContent = 'Hide Filters';
+      } else {
+        toggleBtn.textContent = 'Show Filters';
+      }
+    });
+  }
+  // Optional: close panel when clicking outside (mobile UX)
+  document.addEventListener('click', function (e) {
+    if (window.innerWidth <= 700 && filtersPanel && filtersPanel.classList.contains('open')) {
+      if (!filtersPanel.contains(e.target) && e.target !== toggleBtn) {
+        filtersPanel.classList.remove('open');
+        toggleBtn.textContent = 'Show Filters';
+      }
+    }
+  });
+});
 /* global config csv2geojson turf Assembly $ */
 'use strict';
 

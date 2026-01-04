@@ -33,13 +33,14 @@
                         </h3>
                         <p id='description' class='txt-s py12 none block-ml'>
                         </p>
-                        <form id="filters" class="py12 px12"></form>
-                        <div class='align-center py12'></div>
-                        <div class="flex-parent flex-parent--center-main">
-                            <button id="removeFilters" class="btn">Reset Filters</button>
+                        <button id="toggleFilters" class="btn show-mobile">Show Filters</button>
+                        <div id="filtersPanel" class="filters-panel">
+                            <form id="filters" class="py12 px12"></form>
+                            <div class='align-center py12'></div>
+                            <div class="flex-parent flex-parent--center-main">
+                                <button id="removeFilters" class="btn">Reset Filters</button>
+                            </div>
                         </div>
-
-
                     </div>
                     <div id="listings" class="flex-child viewport-twothirds py12 px12 listings scroll-auto"></div>
 
