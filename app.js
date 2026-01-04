@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function () {
     toggleBtn.addEventListener('click', function () {
       filtersPanel.classList.toggle('open');
       if (filtersPanel.classList.contains('open')) {
-        toggleBtn.textContent = 'Hide Filters';
+        toggleBtn.textContent = 'Show Filters';
       } else {
         toggleBtn.textContent = 'Show Filters';
       }
@@ -634,13 +634,19 @@ map.on('load', () => {
     );
 
     map.on('click', 'locationData', (e) => {
-      const features = map.queryRenderedFeatures(e.point, {
+      const bbox = [
+        [e.point.x - 10, e.point.y - 10],
+        [e.point.x + 10, e.point.y + 10]
+      ];
+      const features = map.queryRenderedFeatures(bbox, {
         layers: ['locationData'],
       });
-      const clickedPoint = features[0].geometry.coordinates;
-      flyToLocation(clickedPoint);
-      sortByDistance(clickedPoint);
-      createPopup(features);
+      if (features.length > 0) {
+        const clickedPoint = features[0].geometry.coordinates;
+        flyToLocation(clickedPoint);
+        sortByDistance(clickedPoint);
+        createPopup(features);
+      }
     });
 
     map.on('mouseenter', 'locationData', () => {
