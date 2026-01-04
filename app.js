@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function () {
     if (window.innerWidth <= 700 && filtersPanel && filtersPanel.classList.contains('open')) {
       if (!filtersPanel.contains(e.target) && e.target !== toggleBtn) {
         filtersPanel.classList.remove('open');
-        toggleBtn.textContent = 'Show Filters';
+        if (toggleBtn) toggleBtn.textContent = 'Show Filters';
       }
     }
   });
